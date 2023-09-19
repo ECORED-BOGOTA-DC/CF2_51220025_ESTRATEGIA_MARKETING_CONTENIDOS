@@ -2,14 +2,20 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 55%
+    right: 20%
+    width: 20%
+  &-3
+    animation: float1 3.8s ease-in-out infinite alternate
+    position: absolute
+    top: 80%
+    right: 65%
+    width: 20%
 
 @keyframes float1
   0%
@@ -17,3 +23,68 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal__img
+  width: 380px !important
+  padding-bottom: 3rem !important
+  top: -20px
+  left: 70px
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+
+
+// ESTILOS GLOBALES -------------------------------------
+
+.bg1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -20px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/introduccion/bg1.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top
+    @media (max-width: 500px)
+      background-repeat: no-repeat
+
+
+
+
+// ESTILOS TEMA 1  -------------------------------------
+
+.tarjeta-rosa
+  background-color: #FFE6DD
+
+.tarjeta-morada
+  background-color: #E1D6F3
+
+.cajon.color-primario 
+    background-color: #E1D6F3
+
+.tarjeta-naranja
+  background-color: #FFDED2
+  border-bottom-right-radius: 80px
+
+.img14
+  position: relative
+  max-width: 400%
+  width: 370%
+  right: 250%
+  @media (max-width: 500px)
+    width: 0%
+    right: 0%
+
+.tarjeta-numerada
+  height: 370px
+  @media (max-width: 991px)
+    height: auto
+
+.tarjeta-numerada__numero
+  left: -15px
