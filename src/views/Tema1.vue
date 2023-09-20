@@ -79,7 +79,7 @@
 
             .col-sm-auto
               a.boton.color-acento-botones(href="https://geekflare.com/es/database-management-tools/" target="_blank")
-                span Link
+                span Enlace
                 i.fas.fa-link
 
     p.mb-5 Ahora, es importante conocer muy bien todo el tema de normalización de data, esto es:
@@ -213,13 +213,13 @@
           p Antes de seleccionar una herramienta de análisis, debe saber qué se vende y a qué precio. No es raro que los proveedores cobren tarifas adicionales por la configuración de la cuenta, las integraciones y el uso adicional, vale la pena saber en qué se está involucrando para evitar cualquier cargo inesperado más adelante.
 
       .col-md-10.col-lg-3.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario.p-4
+        .tarjeta-numerada.color-acento-contenido.p-4
           .tarjeta-numerada__numero
             .h2 B
           p Debe decidir si busca una solución independiente o integrada. Si necesita hacer un seguimiento de sus clientes potenciales a lo largo de todo el ciclo de ventas, es mejor que invierta en una herramienta de análisis de marketing que pueda integrarse perfectamente con su CRM y otras herramientas de generación de informes.
 
       .col-md-10.col-lg-3.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.p-4
+        .tarjeta-numerada.color-secundario.p-4
           .tarjeta-numerada__numero
             .h2 C
           p Si genera sus clientes potenciales diligenciando formularios, llamando por teléfono o a través de un chat en directo, tiene sentido utilizar una herramienta de análisis de marketing que tenga capacidades de seguimiento tanto online como offline. 
