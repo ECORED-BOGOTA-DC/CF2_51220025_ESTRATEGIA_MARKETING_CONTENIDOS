@@ -139,21 +139,21 @@
       SlyderF(columnas="col-lg-6")
         .tarjeta.tarjeta-rosa.p-5
           .row.mb-3
-            .col-6.col-lg-3
+            .col-4.col-lg-3
               img(src='@/assets/curso/temas/tema1/img10.svg', alt='Imágen decorativa')
           
             p.mt-3 #[b #[i Facebook:]] el algoritmo de la sección de noticias tiene en cuenta cientos de variables y puede predecir si un usuario determinado dará "Me gusta", comentará, compartirá, entre otras. Esta predicción se cuantifica en un único número llamado "puntuación de relevancia" que es específico tanto para usted como para esa publicación, una vez este se les asigna a todas las publicaciones que podrían aparecer en su feed, el algoritmo las clasifica y las coloca en el orden en que acaban apareciendo en su feed. Esto significa que, la publicación que ve en la parte superior ha sido elegida entre miles como la que probablemente le hará reaccionar y participar más.
 
         .tarjeta.tarjeta-rosa.p-5
           .row.mb-3
-            .col-6.col-lg-3
+            .col-4.col-lg-3
               img(src='@/assets/curso/temas/tema1/img11.svg', alt='Imágen decorativa')
             
             p.mt-3 #[b #[i Twitter:]] ha adoptado históricamente un enfoque muy diferente con lo que llama "Timeline". Este es el flujo de tweets de los usuarios que sigue que aparece en la página de inicio de su cuenta cuando usted se conecta por primera vez. Solía estar compuesto por todos los tweets de todos los usuarios que seguía en orden cronológico, pero se descubrió que los usuarios sentían que se perdían los mejores tweets de las personas que más les importaban.
 
         .tarjeta.tarjeta-rosa.p-5
           .row.mb-3
-            .col-6.col-lg-3
+            .col-4.col-lg-3
               img(src='@/assets/curso/temas/tema1/img12.svg', alt='Imágen decorativa')
             p.mt-3 #[b #[i Instagram:]] cuenta con más de 1,2 millones de usuarios activos en la plataforma, es la plataforma más nueva en comparación con las otras dos de esta lista, es el mejor lugar para empezar  desde abajo con el algoritmo que ha evolucionado ampliamente, cuando comenzó a clasificar las noticias de los usuarios por orden de relevancia en lugar de por la frecuencia. Ahora, el algoritmo funciona de forma similar al de su empresa matriz.
 
@@ -234,11 +234,11 @@
 
 
 </template>
-
 <script>
+import SlyderF from '@/components/SlyderF.vue'
 export default {
   name: 'Tema1',
-  components: {},
+  components: { SlyderF },
   data: () => ({
     // variables de vue
   }),
