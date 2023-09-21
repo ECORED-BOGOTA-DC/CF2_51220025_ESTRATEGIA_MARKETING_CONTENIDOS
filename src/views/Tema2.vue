@@ -316,9 +316,10 @@
 
     p.mb-5(data-aos="fade-left") A continuación, se presentan algunas de las plataformas más populares que ayudan a las empresas a masificarse, conseguir clientes y por consiguiente aumentar sus ventas:
 
-    .tarjeta.bg-slyder.mb-5
-      SlyderA(tipo="b").p-5
-        .row
+    
+    .tarjeta.bg-slyder.p-4
+      SlyderA(tipo="b")
+        .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
             h4.mt-5 WhatsApp + <i>Facebook</i> + Instagram
 
@@ -385,6 +386,8 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema2/img16.svg', alt='Imágen decorativa')
+
+    
 
     p.mb-5(data-aos="fade-right") Esto es un serio dolor de cabeza en la industria porque el <i>marketing</i> de medios sociales es algo que realmente funciona y puede ser muy poderoso, pero la mayoría de las personas (empresas y consultores por igual) tienen un montón de conceptos erróneos con respecto a las diferentes estrategias y cómo deben ser utilizados. En este estudio se desglosa el <i>marketing</i> en redes sociales en cinco (5) técnicas principales que son:
 
