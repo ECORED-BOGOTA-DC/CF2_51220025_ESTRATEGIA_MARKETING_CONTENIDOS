@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Optimización de imagen en redes sociales.',
+    componenteFormativo: 'Optimización de imagen en redes sociales',
     descripcionCurso:
       'Un motor de búsqueda es la herramienta en línea diseñada para buscar sitios web en internet; permite revisar los resultados en su propia base de datos, los clasifica y hace una lista ordenada de estos, utilizando algoritmos de búsqueda únicos. Por lo que el uso de estas herramientas, permite optimizar una marca como propósito que tiene una empresa continuamente.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
@@ -96,7 +96,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Gestión de contenidosl',
+        titulo: 'Gestión de contenidos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -244,13 +244,23 @@ export default {
   referencias: [
     {
       referencia:
-        'Balmes Zúñiga, Z. y González De López, G. (2001). Comunicación Escrita. Trillas Print.',
+        'Balmes Zúñiga, Z. y González De López, G. (2001). <i>Comunicación Escrita.</i> Trillas Print.',
       link: '',
     },
     {
       referencia:
-        'Díaz, D. (2021). 7 herramientas de administración de base de datos que debe conocer como DBA o Sysadmin. Geekflare. ',
+        'Díaz, D. (2021). <i>7 herramientas de administración de base de datos que debe conocer como DBA o Sysadmin</i>. Geekflare. ',
       link: 'https://geekflare.com/es/database-management-tools/',
+    },
+    {
+      referencia:
+        'Lahoz-Beltrá, R. (2019). <i>En las entrañas del big data: una aproximación a la estadística.</i> Emse Edapp, Prisanoticias Colecciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ríos Insúa, D. (2019). <i>Big data: conceptos, tecnologías y aplicaciones.<i> CSIC, Los Libros de la Catarata.',
+      link: '',
     },
   ],
   creditos: [
@@ -266,7 +276,7 @@ export default {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -274,9 +284,38 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Regional',
+          nombre: 'Margarita Rosa Triana Sánchez',
+          cargo: 'Experta Temática',
+          centro:
+            'Región Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+        },
+        {
+          nombre: 'Nelly Parra Guarín',
+          cargo: 'Experta Temática',
+          centro:
+            'Regional Huila - Centro de la Industria, la Empresa y los Servicios',
+        },
+        {
+          nombre: 'Gloria Amparo López Escudero',
+          cargo: 'Diseñador Instruccional',
+          centro:
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Corrector de estilo ',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
     },
@@ -284,28 +323,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseño web',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
+          nombre: 'Manuel Felipe Echavarria Orozco',
+          cargo: 'Desarrollo Fullstack',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animación y Producción audiovisual',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -313,22 +358,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Leyson Fabian Castaño Pérez',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },

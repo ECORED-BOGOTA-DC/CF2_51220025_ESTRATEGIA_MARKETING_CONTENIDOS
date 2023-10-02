@@ -15,7 +15,7 @@
       .col-lg-9
         p(data-aos="fade-left") Una de las grandes herramientas que apoya la analítica de datos son los diferentes <i>software</i> especializados o herramientas ofimáticas que se encuentran en el mercado. Los datos que generalmente se procesan son semiestructurados o estructurados y tienen diferentes orígenes, estos son muy usados en las industrias, pues la información obtenida es la base para tomar decisiones, lo cual puede generar beneficios en el incremento de ingresos, establecer mejoras en los procesos y maximizar campañas publicitarias; sin embargo, el principal objetivo de la analítica de datos es dar impulso al rendimiento o beneficio empresarial.
 
-        p(data-aos="fade-left") El análisis de datos o también conocido como <i>Big Data</i> es aplicado a los análisis cualitativos; es decir, se realiza el análisis de datos numéricos los cuales tienen variables que pueden ser cuantificables, así como compararse y medirse a través de la estadística; es de anotar que el análisis cualitativo es de carácter interpretativo, a través de interpretaciones de los estadísticos, con base en la comprensión que se haga de los datos que no son numéricos. Como beneficio del <i>Big Data</i> se puede mencionar, que permite obtener respuestas más completas, porque se dispone de más información que implica una mayor confianza en los datos, lo que supone un enfoque completamente diferente a la hora de abordar los problemas.
+        p(data-aos="fade-left") El análisis de datos o también conocido como <i>Big Data</i>, es aplicado a los análisis cualitativos; es decir, se realiza el análisis de datos numéricos, los cuales tienen variables que pueden ser cuantificables, así como compararse y medirse a través de la estadística; es de anotar que el análisis cualitativo es de carácter interpretativo, a través de interpretaciones de los estadísticos, con base en la comprensión que se haga de los datos que no son numéricos. Como beneficio del <i>Big Data</i> se puede mencionar, que permite obtener respuestas más completas, porque se dispone de más información que implica una mayor confianza en los datos, lo que supone un enfoque completamente diferente a la hora de abordar los problemas.
 
         p(data-aos="fade-left") Los <i>Big Data</i> pueden ayudar a abordar una serie de actividades empresariales, desde la experiencia del cliente hasta la analítica.
 
@@ -149,7 +149,7 @@
             .col-4.col-lg-3
               img(src='@/assets/curso/temas/tema1/img11.svg', alt='Imágen decorativa')
             
-            p.mt-3 #[b #[i Twitter:]] ha adoptado históricamente un enfoque muy diferente con lo que llama "Timeline". Este es el flujo de tweets de los usuarios que sigue que aparece en la página de inicio de su cuenta cuando usted se conecta por primera vez. Solía estar compuesto por todos los tweets de todos los usuarios que seguía en orden cronológico, pero se descubrió que los usuarios sentían que se perdían los mejores tweets de las personas que más les importaban.
+            p.mt-3 #[b #[i Twitter:]] ha adoptado históricamente un enfoque muy diferente con lo que llama "<i>Timeline</i>". Este es el flujo de tweets de los usuarios que sigue que aparece en la página de inicio de su cuenta cuando usted se conecta por primera vez. Solía estar compuesto por todos los tweets de todos los usuarios que seguía en orden cronológico, pero se descubrió que los usuarios sentían que se perdían los mejores tweets de las personas que más les importaban.
 
         .tarjeta.tarjeta-rosa.p-5
           .row.mb-3
@@ -224,7 +224,7 @@
         .tarjeta-numerada.color-secundario.p-4(data-aos="flip-down")
           .tarjeta-numerada__numero
             .h2 C
-          p Si genera sus clientes potenciales diligenciando formularios, llamando por teléfono o a través de un chat en directo, tiene sentido utilizar una herramienta de análisis de <i>marketing</i> que tenga capacidades de seguimiento tanto online como offline. 
+          p Si genera sus clientes potenciales diligenciando formularios, llamando por teléfono o a través de un chat en directo, tiene sentido utilizar una herramienta de análisis de <i>marketing</i> que tenga capacidades de seguimiento tanto <i>online</i> como <i>offline</i>. 
 
       .col-md-10.col-lg-3.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-botones.p-4(data-aos="flip-down")

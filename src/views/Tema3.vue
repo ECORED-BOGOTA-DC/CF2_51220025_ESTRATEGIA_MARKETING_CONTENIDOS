@@ -35,7 +35,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.mt-5.text-center Landing Page
+              h5.mt-5.text-center <i>Landing Page</i>
               p.text-center Es una página <i>web</i> diseñada como destino o “aterrizaje” que permite convertir visitantes en clientes finales. Su funcionamiento es sencillo, al ofrecer algo que llame la atención del usuario, estará más dispuesto a dejar información a través de algún formulario, así al quedar registrado en la base de datos del dueño de la página podrá acceder a diversos contenidos de interés.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -74,7 +74,7 @@
               ul.lista-ul--color.fa-ul2
                 li 
                   i.fas.fa-check
-                  p.mb-0 Un marco de referencia. Gracias a la línea editorial, todas las personas que participan en la creación de contenidos (editores, community manager, etc.) tienen un documento que les sirve de guía y garantiza la coherencia entre todos.
+                  p.mb-0 Un marco de referencia. Gracias a la línea editorial, todas las personas que participan en la creación de contenidos (editores, <i>community manager</i>, etc.) tienen un documento que les sirve de guía y garantiza la coherencia entre todos.
                 li 
                   i.fas.fa-check
                   p.mb-0 Ayuda a los redactores a autocontrolarse e imponer una regularidad en la publicación de contenidos.
@@ -119,11 +119,11 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
-        p(data-aos="fade-right") Cuando se piensa en crear una estrategia de redes sociales para una empresa, probablemente vengan a la mente de inmediato algunas de las principales plataformas: <i>Facebook</i>, Instagram, Twitter, y quizás YouTube o Pinterest, dependiendo del sector. Sin embargo, existen muchos tipos de redes sociales, con nuevas plataformas y formatos que aparecen regularmente. Algunos son bastante especializados, mientras que otros tienen el potencial de convertirse en el próximo Instagram o <i>TikTok</i>.
+        p(data-aos="fade-right") Cuando se piensa en crear una estrategia de redes sociales para una empresa, probablemente vengan a la mente de inmediato algunas de las principales plataformas: <i>Facebook</i>, <i>Instagram</i>, <i>Twitter</i>, y quizás YouTube o <i>Pinterest</i>, dependiendo del sector. Sin embargo, existen muchos tipos de redes sociales, con nuevas plataformas y formatos que aparecen regularmente. Algunos son bastante especializados, mientras que otros tienen el potencial de convertirse en el próximo <i>Instagram</i> o <i>TikTok</i>.
 
         p(data-aos="fade-right") Una cosa que ha cambiado desde los primeros días de las redes sociales es que muchas plataformas solían centrarse en una función, como las redes sociales o el intercambio de imágenes. Ahora, la mayoría de las plataformas de medios sociales establecidas se han ampliado para incorporar la transmisión en vivo, la realidad aumentada, las compras, el audio social y más. Así que, en lugar de ofrecer descripciones de alto nivel, pueden
 
-        p(data-aos="fade-right") encontrarlas en cualquier sitio, se han agrupado una amplia variedad de plataformas en nueve categorías generales que se centran en casos de uso específicos y en lo que las empresas pueden conseguir al utilizarlas.
+        p(data-aos="fade-right") Encontrarlas en cualquier sitio, se han agrupado una amplia variedad de plataformas en nueve categorías generales que se centran en casos de uso específicos y en lo que las empresas pueden conseguir al utilizarlas.
 
       .col-10.col-lg-3
         figure(data-aos="fade-left")
@@ -140,42 +140,42 @@
       p(data-aos="fade-left") Basado en lo anterior, a continuación, se encuentran tres consejos para construir criterios propios que ayudarán a evaluar cualquier nueva plataforma de medios sociales, sin importar cuál sea o cómo funcione:
 
     .tarjeta.bg-slyder.mb-5
-      SlyderA(tipo="b").p-5
-        .row
-          .col-md-6.mb-4.mb-md-0
+      SlyderA(tipo="b").p-4.pl-g-5
+        .row.justify-content-center.align-items-center
+          .col-lg-6
             h4.my-5 Conozca a su público
 
             p La primera pregunta que debe hacerse antes de unirse a una nueva plataforma de medios sociales es: ¿Dónde está su público?
 
             p Tiene más sentido ir a donde su público ya está, que unirse a una nueva plataforma y atraer a su público hacia ella. Lo segundo que hay que entender es cómo utiliza su audiencia esa plataforma. ¿Qué tipo de contenido buscan? ¿Qué tipo de cuentas siguen? ¿Son consumidores pasivos o creadores de contenidos?
 
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema3/img8.svg', alt='Imágen decorativa')
 
-        .row
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-center
+          .col-lg-6
             h4 Manténgase al día con las estadísticas de las redes sociales
 
             p Cada vez que surge una nueva plataforma de medios sociales, es esencial saber la diferencia entre un objeto nuevo y brillante y una plataforma de rápido crecimiento que tiene el potencial de permanecer.
 
             p Aunque nadie puede predecir el futuro, una forma de saber si una plataforma tiene capacidad de permanencia es comparar sus estadísticas con las de plataformas de medios sociales ya establecidas.
 
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema3/img9.svg', alt='Imágen decorativa')
 
-        .row
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-center
+          .col-lg-6
             h4 Alineación con los objetivos clave de su negocio
 
             p <b style= 'color:#6936C1;'>Pregúntese:</b> ¿Qué plataformas se ajustan mejor a los objetivos de su negocio?
 
-            p Por ejemplo, si uno de sus objetivos es dar a conocer un nuevo producto o servicio que podría beneficiarse de los videotutoriales, debería centrarse en plataformas solo de vídeo (como YouTube y Vimeo) o en formatos de vídeo disponibles en los sitios en los que ya está activo (como Instagram Stories y Reels, <i>Facebook</i> Live, etc.).
+            p Por ejemplo, si uno de sus objetivos es dar a conocer un nuevo producto o servicio que podría beneficiarse de los videotutoriales, debería centrarse en plataformas solo de vídeo (como YouTube y Vimeo) o en formatos de vídeo disponibles en los sitios en los que ya está activo (como <i>Instagram Stories</i> y <i>Reels</i>, <i>Facebook</i> Live, etc.).
 
             p Sin importar cuáles sean sus necesidades y objetivos, es seguro que encontrará una forma de utilizar las redes sociales en beneficio de su negocio siempre realizando planes de mejora y actualización de las plataformas
 
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema3/img10.svg', alt='Imágen decorativa')
 
