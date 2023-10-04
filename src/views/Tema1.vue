@@ -42,7 +42,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 1.1 <i>Open source</i>
 
-    p.mb-5 La definición de #[b #[i Open source]] (en español #[b #[i código abierto]]), es un código fuente que se pone a disposición del público y que todos pueden ver para su posible modificación y distribución. Para conocer más acerca de este código abierto, se invita a revisar la siguiente información:
+    p.mb-5(data-aos="fade-left") La definición de #[b #[i Open source]] (en español #[b #[i código abierto]]), es un código fuente que se pone a disposición del público y que todos pueden ver para su posible modificación y distribución. Para conocer más acerca de este código abierto, se invita a revisar la siguiente información:
 
     .row.justify-content-center.align-items-center.mb-5
       figure(data-aos="flip-left")
@@ -82,7 +82,7 @@
                 span Enlace
                 i.fas.fa-link
 
-    p.mb-5 Ahora, es importante conocer muy bien todo el tema de normalización de data, esto es:
+    p.mb-5(data-aos="fade-right") Ahora, es importante conocer muy bien todo el tema de normalización de data, esto es:
 
     .row.justify-content-center.align-items-center.mb-5
       figure

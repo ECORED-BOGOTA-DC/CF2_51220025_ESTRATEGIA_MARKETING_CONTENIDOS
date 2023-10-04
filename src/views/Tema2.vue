@@ -14,7 +14,7 @@
             img(src='@/assets/curso/temas/tema2/img1.svg', alt='Imágen decorativa')
 
         .col-md-10.col-lg-11
-          p(data-aos="fade-left") La optimización del contenido en SMO es un sistema o una lista de tareas que se puede hacer para asegurar que el contenido pueda ser encontrado por el mayor número de personas posible en internet. Si alguna vez ha añadido una etiqueta <i>alt</i> a una imagen o ha puesto una palabra clave en la URL de una página <i>web</i>, es posible que ya esté familiarizado con esta técnica; se puede ver esto de manera más detallada en el siguiente video:
+          p(data-aos="fade-left") La optimización del contenido en SMO es un sistema o una lista de tareas que se puede hacer para asegurar que el contenido pueda ser encontrado por el mayor número de personas posible en Internet. Si alguna vez ha añadido una etiqueta <i>alt</i> a una imagen o ha puesto una palabra clave en la URL de una página <i>web</i>, es posible que ya esté familiarizado con esta técnica; se puede ver esto de manera más detallada en el siguiente video:
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
         figure
@@ -70,7 +70,7 @@
             h4 Autoridad
             p Un sitio <i>web</i> tiene autoridad cuando es popular y esta popularidad se mide según el número de enlaces que apuntan hacia ella. Para mejorar la autoridad de una <i>web</i> se usan técnicas de SEO <i>off site5</i>, entre las que destaca el <i>linkbuilding</i>.
 
-    p.mb-5(data-aos="fade-left") De otra, parte cobra mucha relevancia el tipo de estrategias que se utilizan, las que presenta la SEO para tenerlas en cuenta son las siguientes:
+    p.mb-5(data-aos="fade-left") De otra parte, cobra mucha relevancia el tipo de estrategias que se utilizan, las que presenta la SEO para tenerlas en cuenta son las siguientes:
 
     .row.justify-content-center.align-items-center.mb-5
       ImagenInfografica.color-acento-contenido
