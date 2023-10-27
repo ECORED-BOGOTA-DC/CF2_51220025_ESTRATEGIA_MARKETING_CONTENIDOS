@@ -67,7 +67,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Evaluación de contenido y optimización ',
+        titulo: 'Evaluación de contenido y optimización',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -211,7 +211,7 @@ export default {
   ],
   glosario: [
     {
-      termino: '<i>Blacklinks</i>',
+      termino: 'Blacklinks',
       significado:
         'enlaces en sitios web distintos del suyo que remiten a una página de su sitio web. Los <i>backlinks</i> también se denominan enlaces entrantes porque representan el tráfico de otro sitio web que llega a su propio sitio. ',
     },

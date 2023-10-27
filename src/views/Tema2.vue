@@ -5,27 +5,22 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 Evaluación de contenido y optimización
 
     .bg1
       .row.justify-content-center.align-items-center.mb-5
         .col-5.col-md-2.col-lg-1
-          figure(data-aos="fade-right")
+          figure.mb-lg-5(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema2/img1.svg', alt='Imágen decorativa')
 
         .col-md-10.col-lg-11
-          p(data-aos="fade-left") La optimización del contenido en SMO es un sistema o una lista de tareas que se puede hacer para asegurar que el contenido pueda ser encontrado por el mayor número de personas posible en Internet. Si alguna vez ha añadido una etiqueta <i>alt</i> a una imagen o ha puesto una palabra clave en la URL de una página <i>web</i>, es posible que ya esté familiarizado con esta técnica; se puede ver esto de manera más detallada en el siguiente video:
-
-      .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
-        figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/123456789" title="Comunicación de marketing digital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          p.mb-5(data-aos="fade-left") La optimización del contenido en SMO es un sistema o una lista de tareas que se puede hacer para asegurar que el contenido pueda ser encontrado por el mayor número de personas posible en Internet. Si alguna vez ha añadido una etiqueta <i>alt</i> a una imagen o ha puesto una palabra clave en la URL de una página web, es posible que ya esté familiarizado con esta técnica.
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 2.1 Factores y métodos posicionamiento SEO y SEM
 
-    p(data-aos="fade-right") SEO (Optimización de motores de búsqueda) se refiere a todas aquellas acciones, estrategias y técnicas de optimización de posicionamiento que se hacen en un sitio <i>web</i> para aparecer orgánicamente (no pago) en los buscadores (Google, Yahoo, Bing). Con la estrategia SEO no se realiza ningún pago a las empresas dueñas de los motores de búsqueda y se puede lograr incrementos significativos en el tráfico y la visibilidad de las marcas en Internet. Son los contenidos los que se ganan esos lugares por derecho propio.
+    p(data-aos="fade-right") SEO (Optimización de motores de búsqueda) se refiere a todas aquellas acciones, estrategias y técnicas de optimización de posicionamiento que se hacen en un sitio web para aparecer orgánicamente (no pago) en los buscadores (Google, Yahoo, Bing). Con la estrategia SEO no se realiza ningún pago a las empresas dueñas de los motores de búsqueda y se puede lograr incrementos significativos en el tráfico y la visibilidad de las marcas en Internet. Son los contenidos los que se ganan esos lugares por derecho propio.
 
     p.mb-5(data-aos="fade-right") La SEO presenta características importantes que se deben tener en cuenta, como los que puede conocer a continuación:
 
@@ -35,7 +30,7 @@
           .tarjeta-numerada__numero
             .h2 1
           h4 Medible
-          p Implica poder conocer en todo momento cuáles son las palabras clave y expresiones que están consiguiendo ubicar el sitio <i>web</i> en las primeras posiciones del buscador y cuáles transforman mejor una visita en una conversión.
+          p Implica poder conocer en todo momento cuáles son las palabras clave y expresiones que están consiguiendo ubicar el sitio web en las primeras posiciones del buscador y cuáles transforman mejor una visita en una conversión.
 
       .col-md-10.col-lg-4.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-contenido.p-5(data-aos="flip-down")
@@ -49,9 +44,9 @@
           .tarjeta-numerada__numero
             .h2 3
           h4 Dinámico
-          p Un día se puede estar en las primeras posiciones, pero al día siguiente descender la visibilidad. Esto puede ser debido al incremento de la competencia, al uso inadecuado de las páginas <i>web</i>s o incluso a cambios en los algoritmos de los buscadores. Por tanto, es importante analizar el SEO de la <i>web</i> continuamente.
+          p Un día se puede estar en las primeras posiciones, pero al día siguiente descender la visibilidad. Esto puede ser debido al incremento de la competencia, al uso inadecuado de las páginas webs o incluso a cambios en los algoritmos de los buscadores. Por tanto, es importante analizar el SEO de la web continuamente.
 
-    p.mb-5(data-aos="fade-right") La clave de la SEO radica en alcanzar un nivel de popularidad y relevancia que haga que los robots consideren la página que se está posicionando entre las primeras opciones para determinadas intenciones de búsqueda. Para dar respuesta a una búsqueda, los diferentes buscadores evalúan decenas o incluso cientos de señales de todos los sitios <i>web</i>, para determinar cuáles son los que mejor respuesta dan a dicha búsqueda, con el objetivo de que los usuarios tengan la mejor experiencia posible y encuentren lo que buscan rápida y fácilmente. Por ejemplo, Google tiene en cuenta dos factores que influyen en este posicionamiento:
+    p.mb-5(data-aos="fade-right") La clave de la SEO radica en alcanzar un nivel de popularidad y relevancia que haga que los robots consideren la página que se está posicionando entre las primeras opciones para determinadas intenciones de búsqueda. Para dar respuesta a una búsqueda, los diferentes buscadores evalúan decenas o incluso cientos de señales de todos los sitios web, para determinar cuáles son los que mejor respuesta dan a dicha búsqueda, con el objetivo de que los usuarios tengan la mejor experiencia posible y encuentren lo que buscan rápida y fácilmente. Por ejemplo, Google tiene en cuenta dos factores que influyen en este posicionamiento:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -60,7 +55,7 @@
             img(src='@/assets/curso/temas/tema2/img2.svg', alt='Imágen decorativa')
           .p-4  
             h4 Relevancia
-            p Google considera que una <i>web</i> es relevante cuando se corresponde con precisión con una búsqueda concreta, esto es, cuando responde a la duda o la pregunta que ha formulado el usuario. Para mejorar la relevancia de la <i>web</i> que se quiere posicionar, se utilizan técnicas de SEO <i>on site4</i>: optimización de palabras clave y URL, tiempos de carga más rápidos, mejor experiencia de usuario, entre otras.
+            p Google considera que una web es relevante cuando se corresponde con precisión con una búsqueda concreta, esto es, cuando responde a la duda o la pregunta que ha formulado el usuario. Para mejorar la relevancia de la web que se quiere posicionar, se utilizan técnicas de SEO <i>on site4</i>: optimización de palabras clave y URL, tiempos de carga más rápidos, mejor experiencia de usuario, entre otras.
 
       .col-lg-6
         .tarjeta.tarjeta-morada2.mb-3(data-aos="flip-left")
@@ -68,7 +63,7 @@
             img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imágen decorativa')
           .p-4  
             h4 Autoridad
-            p Un sitio <i>web</i> tiene autoridad cuando es popular y esta popularidad se mide según el número de enlaces que apuntan hacia ella. Para mejorar la autoridad de una <i>web</i> se usan técnicas de SEO <i>off site5</i>, entre las que destaca el <i>linkbuilding</i>.
+            p Un sitio web tiene autoridad cuando es popular y esta popularidad se mide según el número de enlaces que apuntan hacia ella. Para mejorar la autoridad de una web se usan técnicas de SEO <i>off site5</i>, entre las que destaca el <i>linkbuilding</i>.
 
     p.mb-5(data-aos="fade-left") De otra parte, cobra mucha relevancia el tipo de estrategias que se utilizan, las que presenta la SEO para tenerlas en cuenta son las siguientes:
 
@@ -88,7 +83,7 @@
 
         .tarjeta.tarjeta-naranja2.p-3(x="39%" y="40%" numero="+")
           p <b>Escuchar la competencia</b>
-          p Esta escucha debe ser constante; es preciso estudiar aquellas <i>web</i>s de la competencia que estén mejor posicionadas para conocer lo qué están haciendo, de qué manera, que estrategias utilizan ellos y como competir y mejorarlos, en esto, herramientas como: Ahrefso Open Site Explorer puede ayudarle mucho.
+          p Esta escucha debe ser constante; es preciso estudiar aquellas webs de la competencia que estén mejor posicionadas para conocer lo qué están haciendo, de qué manera, que estrategias utilizan ellos y como competir y mejorarlos, en esto, herramientas como: Ahrefso Open Site Explorer puede ayudarle mucho.
 
         .tarjeta.tarjeta-naranja2.p-3(x="51%" y="62%" numero="+")
           p <b>Evitar comportamientos que puedan penalizarlos</b>
@@ -103,8 +98,8 @@
           p Ponga en marcha la estrategia y observe los resultados. Una vez terminada y analizada, ajuste todo lo necesario y vuelva a realizar otra poniendo en práctica lo aprendido de los resultados de la campaña anterior.
 
         .tarjeta.tarjeta-naranja2.p-3(x="90%" y="40%" numero="+")
-          p <b>Actualice su <i>web</i></b>
-          p Una campaña SEO puede suponer cambios en su página <i>web</i>, procure tener relación directa con el técnico encargado de su mantenimiento.
+          p <b>Actualice su web</b>
+          p Una campaña SEO puede suponer cambios en su página web, procure tener relación directa con el técnico encargado de su mantenimiento.
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta-rosa.p-5(data-aos="flip-down")
@@ -168,7 +163,7 @@
               p.mb-0 #[b Redacción y optimización del texto de los anuncios:] además de atraer muchos más usuarios, también supondrá un mejor posicionamiento dentro del grupo de los enlaces patrocinados, lo que hace que anuncios que tienen mejor porcentaje de <i>clics</i> salgan por delante y otros sean relegados a las últimas posiciones o incluso eliminados de los resultados de búsqueda.
             li 
               i.fas.fa-check
-              p.mb-0 #[b Selección de la ubicación de los anuncios:] la elección del sitio <i>web</i> donde anunciarse es fundamental. Un análisis del público objetivo, de los hábitos y costumbres de estos será la clave para escoger unos u otros. 
+              p.mb-0 #[b Selección de la ubicación de los anuncios:] la elección del sitio web donde anunciarse es fundamental. Un análisis del público objetivo, de los hábitos y costumbres de estos será la clave para escoger unos u otros. 
             li 
               i.fas.fa-check
               p.mb-0 #[b Selección de la época del año:] la realización de campañas de SEM para épocas del año en que la demanda del negocio es mayor (productos estacionales), o bien, para el lanzamiento de algún producto, puede resultar muy interesante y beneficioso.
@@ -241,7 +236,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img8.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h5.mt-4.texto-negro Selección de la ubicación de los anuncios
-              p.texto-negro La elección del sitio <i>web</i> donde anunciarse es fundamental. Un análisis del público objetivo, de los hábitos y costumbres de estos será la clave para escoger unos u otros. 
+              p.texto-negro La elección del sitio web donde anunciarse es fundamental. Un análisis del público objetivo, de los hábitos y costumbres de estos será la clave para escoger unos u otros. 
 
       .col-lg-4.col-md-8.mb-4
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
@@ -260,10 +255,10 @@
     .row.justify-content-center.align-items-center.mb-5
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordion2")
         .row.p-4(titulo="Tráfico cualificado hacia su página")
-          p Una de las bases de cualquier estrategia de <i>marketing</i> digital es la de atraer a los usuarios correctos hacia su <i>web</i>. El <i>marketing</i> de motores de búsqueda es muy efectivo a la hora de atraer la atención de los usuarios y generar <i>clics</i>, gracias a que permite filtrar a los usuarios en función de las palabras que buscan, lo que le  asegura que este tráfico esté compuesto por personas que a priori, estén interesadas en su marca.
+          p Una de las bases de cualquier estrategia de <i>marketing</i> digital es la de atraer a los usuarios correctos hacia su web. El <i>marketing</i> de motores de búsqueda es muy efectivo a la hora de atraer la atención de los usuarios y generar <i>clics</i>, gracias a que permite filtrar a los usuarios en función de las palabras que buscan, lo que le  asegura que este tráfico esté compuesto por personas que a priori, estén interesadas en su marca.
 
         .row.p-4(titulo="Dar a conocer la marca o empresa")
-          p Colocarse en los primeros puestos de Google es una manera fantástica de conseguir visibilidad para una marca. El hecho de que un usuario no haga <i>clikc</i> sobre su anuncio, no significa que no lo haya visto.
+          p Colocarse en los primeros puestos de Google es una manera fantástica de conseguir visibilidad para una marca. El hecho de que un usuario no haga clic sobre su anuncio, no significa que no lo haya visto.
 
         .row.p-4(titulo="Generar conversiones")
           p Una conversión tiene lugar cuando un usuario que accede a su página consigue el objetivo pretendido, que puede ser desde un registro como usuario, la cumplimentación de un formulario, la solicitud de información, una venta, entre otras. En buscadores como Google, la herramienta para creación de campañas <i>Google Ads</i>, ofrece todo tipo de ayuda para poder medir las conversiones y así asegurar que los anuncios sean realmente efectivos.
@@ -272,7 +267,7 @@
           p No es necesaria una gran inversión inicial, esto lo hace muy accesible para pequeñas empresas que pueden competir en igualdad con grandes empresas que disponen de amplias partidas presupuestarias para las acciones de <i>marketing</i>. Se puede decir entonces que la publicidad a través de motores de búsqueda posibilita la obtención de grandes resultados con pequeños presupuestos
 
         .row.p-4(titulo="Datos relevantes")
-          p Gracias a la información completa y el gran volumen de estadísticas disponibles en este tipo de herramientas de inserción de anuncios, se puede conocer mejor el comportamiento de los usuarios y la efectividad de las diferentes campañas SEM, información que puede usarse para trasladar las campañas a otros sitios <i>web</i> como portales especializados o medios de comunicación.
+          p Gracias a la información completa y el gran volumen de estadísticas disponibles en este tipo de herramientas de inserción de anuncios, se puede conocer mejor el comportamiento de los usuarios y la efectividad de las diferentes campañas SEM, información que puede usarse para trasladar las campañas a otros sitios web como portales especializados o medios de comunicación.
 
         .row.p-4(titulo="Posibilidades de personalización")
           p Estas son muy altas. Es posible realizar campañas en función de:
@@ -295,7 +290,7 @@
               p.mb-0 Otras.
 
         .row.p-4(titulo="Resultados altamente medibles")
-          p Las herramientas como Google <i>Ads</i> le proporcionan informes altamente detallados de la evolución de una campaña, de manera que es posible saber en todo momento qué ocurre con los anuncios. En el caso del buscador Google, su herramienta de creación y seguimiento de campañas SEM, Google <i>Ads</i>, está conectada a otra denominada Google <i>Analytics</i> que permite monitorizar las visitas a las diferentes páginas o sitios <i>web</i>.
+          p Las herramientas como Google <i>Ads</i> le proporcionan informes altamente detallados de la evolución de una campaña, de manera que es posible saber en todo momento qué ocurre con los anuncios. En el caso del buscador Google, su herramienta de creación y seguimiento de campañas SEM, Google <i>Ads</i>, está conectada a otra denominada Google <i>Analytics</i> que permite monitorizar las visitas a las diferentes páginas o sitios web.
 
         .row.p-4(titulo="Monitorización en tiempo real")
           p Es lo que permite realizar un seguimiento continuo y actualizado de una campaña, gracias a lo cual se pueden realizar modificaciones sobre la marcha en algunos parámetros.
@@ -368,7 +363,7 @@
           .col-md-6.mb-4.mb-md-0
             h4.mt-5 YouTube
 
-            p Es un sitio <i>web</i> estadounidense especializado para crear o compartir videos de diferente temática (películas, programas de televisión, vídeos musicales, videotutoriales, entre otros.), así como contenido amateur de juegos o situaciones cotidianas de las personas.
+            p Es un sitio web estadounidense especializado para crear o compartir videos de diferente temática (películas, programas de televisión, vídeos musicales, videotutoriales, entre otros.), así como contenido amateur de juegos o situaciones cotidianas de las personas.
 
           .col-md-6
             figure
@@ -411,7 +406,7 @@
             p Es cuando usted crea su propio contenido viral que generalmente promueve indirectamente su marca o servicios. Esto incluye la creación de un vídeo viral, la organización de un concurso o la creación de un sitio novedoso para llamar la atención de la gente. Algunos ejemplos, respetablemente, son las marcas registradas como Movistar, Nutresa, Almacenes Éxito, entre otros.
 
           .tarjeta.tarjeta-rosa.p-4(titulo="Promoción de los <br>marcadores sociales")
-            p Los sitios de marcadores sociales son servicios en los que la gente comparte recursos a través de una URL de referencia en lugar del propio contenido. Estos sitios incluyen <i>Digg</i>, <i>Mixx</i>, <i>Delicious</i> y docenas más. El objetivo de esta técnica es aparecer en la primera página o estar en los primeros puestos de estos sitios, conduciendo toneladas y toneladas de tráfico a su sitio <i>web</i>.
+            p Los sitios de marcadores sociales son servicios en los que la gente comparte recursos a través de una URL de referencia en lugar del propio contenido. Estos sitios incluyen <i>Digg</i>, <i>Mixx</i>, <i>Delicious</i> y docenas más. El objetivo de esta técnica es aparecer en la primera página o estar en los primeros puestos de estos sitios, conduciendo toneladas y toneladas de tráfico a su sitio web.
 
           .tarjeta.tarjeta-rosa.p-4(titulo="Campaña de <br>influenciadores")
             p Se trata de contar con personas influyentes que son blogueros populares, tuiteros, creadores de vídeos, etc., para que promocionen sus productos y servicios. Esta es probablemente la forma más efectiva y poderosa de hacer <i>marketing</i> en las redes sociales. El mayor problema es que se necesita mucho tiempo para crear esa confianza con el público en línea, desde meses hasta años. En una campaña de influenciadores, se aprovecha el compromiso y la confianza que otros han construido durante meses y años.
@@ -427,41 +422,41 @@
     .row.justify-content-center.align-items-center.mb-5
       p(data-aos="fade-left") La optimización de las redes sociales es una forma eficaz de conseguir y mantenerse por delante de la competencia en los canales de las redes sociales como <i>Twitter</i>, <i>LinkedIn</i>, <i>Facebook</i>, YouTube, entre otros.
 
-      p(data-aos="fade-right") La optimización de los medios sociales puede definirse como un proceso de acceso a nuevos clientes mediante el descubrimiento de los canales de medios sociales predominantes; existen varias técnicas y estrategias, como los canales RSS, los sitios <i>web</i> de medios sociales, los <i>blogs</i> y los videos, y los sitios <i>web</i> de noticias sociales.
+      p(data-aos="fade-right") La optimización de los medios sociales puede definirse como un proceso de acceso a nuevos clientes mediante el descubrimiento de los canales de medios sociales predominantes; existen varias técnicas y estrategias, como los canales RSS, los sitios web de medios sociales, los <i>blogs</i> y los videos, y los sitios web de noticias sociales.
 
       p(data-aos="fade-left") A continuación, se presenta los beneficios de la implementación de técnicas de optimización, que son los siguientes:
 
     .row.justify-content-center.align-items-center.mb-5
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordion")
         .row.p-4(titulo="Público objetivo")
-          p Puede dirigirse directamente a su público en función de sus intereses, grupo de edad, habilidades, etc. Los canales de las redes sociales le dan la oportunidad de relacionarse con sus clientes y aumentar la visibilidad de su marca; puede compartir actualizaciones o reseñas en los sitios <i>web</i> de las redes sociales.
+          p Puede dirigirse directamente a su público en función de sus intereses, grupo de edad, habilidades, etc. Los canales de las redes sociales le dan la oportunidad de relacionarse con sus clientes y aumentar la visibilidad de su marca; puede compartir actualizaciones o reseñas en los sitios web de las redes sociales.
 
         .row.p-4(titulo="Mejora los resultados de los motores de búsqueda")
-          p La optimización de los medios sociales también mejora la clasificación de los sitios <i>web</i> en los motores de búsqueda, le resultará fácil encontrar resultados rápidos y efectivos ante los sitios <i>web</i>, es decir, no es necesario esperar mucho tiempo para encontrar tráfico genuino en su sitio <i>web</i>.
+          p La optimización de los medios sociales también mejora la clasificación de los sitios web en los motores de búsqueda, le resultará fácil encontrar resultados rápidos y efectivos ante los sitios web, es decir, no es necesario esperar mucho tiempo para encontrar tráfico genuino en su sitio web.
 
         .row.p-4(titulo="Video")
           p Los <i>post</i> de video son aún más llamativos hoy en día. En el video <i>post</i>, usted puede inspirar a la audiencia y hacerles saber acerca de sus productos/servicios y cómo esos productos/servicios les ayudarán. Esta estrategia se está haciendo popular en los últimos años y se utiliza como una parte importante para las ventas. 
 
         .row.p-4(titulo="<i>Blogging</i>")
-          p Es una de las técnicas más populares porque siempre tiene contenido genuino de calidad y la gente puede encontrar resultados originales. Los profesionales están utilizando el <i>Blogging</i> como la técnica principal para la optimización de cualquier sitio <i>web</i> mediante el uso de <i>backlinks</i> en el blog y el contenido sobre el sitio <i>web</i> de la empresa. Las palabras clave también se utilizan en el contenido para llegar a una audiencia máxima de Internet.
+          p Es una de las técnicas más populares porque siempre tiene contenido genuino de calidad y puede encontrar resultados originales. Los profesionales están utilizando el <i>Blogging</i> como la técnica principal para la optimización de cualquier sitio web mediante el uso de <i>backlinks</i> en el blog y el contenido sobre el sitio web de la empresa. Las palabras clave también se utilizan en el contenido para llegar a una audiencia máxima de Internet.
 
         .row.p-4(titulo="Contenido viral")
-          p Usted debe tratar de crear contenido que puede ser viral fácilmente. Será muy exitoso en el <i>marketing</i> de medios sociales para cualquier sitio <i>web</i> si tiene cualquier contenido escrito, imagen o vídeo y es lo suficientemente interesante para conseguir ser viral. 
+          p Usted debe tratar de crear contenido que puede ser viral fácilmente. Será muy exitoso en el <i>marketing</i> de medios sociales para cualquier sitio web si tiene cualquier contenido escrito, imagen o vídeo y es lo suficientemente interesante para conseguir ser viral. 
 
         .row.p-4(titulo="Manténgase conectado")
-          p También aumenta los canales de comunicación con diferentes personas, que pueden ayudarle a promover su sitio <i>web</i> o podrían ser sus clientes directos para los sitios sociales. Los clientes pueden ponerse en contacto con usted en cualquier momento con preguntas, siempre y cuando usted se esfuerce por responder a esas preguntas en un plazo determinado. 
+          p También aumenta los canales de comunicación con diferentes personas, que pueden ayudarle a promover su sitio web o podrían ser sus clientes directos para los sitios sociales. Los clientes pueden ponerse en contacto con usted en cualquier momento con preguntas, siempre y cuando usted se esfuerce por responder a esas preguntas en un plazo determinado. 
 
         .row.p-4(titulo="Aumentar la credibilidad")
           p La optimización de las redes sociales significa que una persona real mantiene los perfiles y publica artículos, <i>blogs</i> e información sobre productos y servicios. Esto construye e impulsa la credibilidad también activamente ejecutar y participar en la plataforma de medios sociales.
 
-        .row.p-4(titulo="Tráfico para los sitios <i>web</i>")
-          p La optimización de los medios sociales le ayuda a generar tráfico relevante para su sitio <i>web</i> sin ningún gasto. La optimización de los medios sociales ayuda a llegar a un público más amplio y que responde mucho mejor y los visitantes podrán llegar a usted también. Publicar y compartir contenidos en las redes sociales, foros y <i>blogs</i> ayuda a generar un gran tráfico. Le ayuda a conseguir más tráfico a su sitio <i>web</i> con una publicación atractiva en diferentes canales de medios sociales.
+        .row.p-4(titulo="Tráfico para los sitios web")
+          p La optimización de los medios sociales le ayuda a generar tráfico relevante para su sitio web sin ningún gasto. La optimización de los medios sociales ayuda a llegar a un público más amplio y que responde mucho mejor y los visitantes podrán llegar a usted también. Publicar y compartir contenidos en las redes sociales, foros y <i>blogs</i> ayuda a generar un gran tráfico. Le ayuda a conseguir más tráfico a su sitio web con una publicación atractiva en diferentes canales de medios sociales.
 
         .row.p-4(titulo="Fidelización de clientes")
-          p La optimización de los medios sociales le ayuda a generar tráfico relevante para su sitio <i>web</i> sin ningún gasto. La optimización de los medios sociales ayuda a llegar a un público más amplio y que responde mucho mejor y los visitantes podrán llegar a usted también. Publicar y compartir contenidos en las redes sociales, foros y <i>blogs</i> ayuda a generar un gran tráfico. Le ayuda a conseguir más tráfico a su sitio <i>web</i> con una publicación atractiva en diferentes canales de medios sociales.
+          p La optimización de los medios sociales le ayuda a generar tráfico relevante para su sitio web sin ningún gasto. La optimización de los medios sociales ayuda a llegar a un público más amplio y que responde mucho mejor y los visitantes podrán llegar a usted también. Publicar y compartir contenidos en las redes sociales, foros y <i>blogs</i> ayuda a generar un gran tráfico. Le ayuda a conseguir más tráfico a su sitio web con una publicación atractiva en diferentes canales de medios sociales.
 
         .row.p-4(titulo="Aumentar la visibilidad social")
-          p Los medios sociales son una gran herramienta para establecer una relación con su público sin comprometer sus preferencias. Los contenidos compartidos, <i>blogs</i>, <i>posts</i>, etc. hacen que la gente conozca su marca y su sitio <i>web</i>. Los medios sociales permiten escribir información sobre el negocio con un enlace al sitio <i>web</i>, lo que ayuda a generar más clientes potenciales y a obtener una ventaja sobre los competidores. 
+          p Los medios sociales son una gran herramienta para establecer una relación con su público sin comprometer sus preferencias. Los contenidos compartidos, <i>blogs</i>, <i>posts</i>, etc. hacen que la gente conozca su marca y su sitio web. Los medios sociales permiten escribir información sobre el negocio con un enlace al sitio web, lo que ayuda a generar más clientes potenciales y a obtener una ventaja sobre los competidores. 
 
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")

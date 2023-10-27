@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema3/img1.svg', alt='Imágen decorativa')
 
       .col-lg-9
-        p(data-aos="fade-left") La producción de contenidos digitales considera una gran variedad de características bajo criterios de seguridad, originalidad, derechos de autor, ética y responsabilidad profesional, siendo <i>Internet</i> el medio de comunicación masivo como puente de difusión que permite que cualquier persona comparta y reciba información. Por tanto, la gestión de contenidos digitales está basada en administrar día a día todo lo que ocurre con las plataformas y los sitios <i>web</i> propiedad de la empresa o marca. En otras palabras, es la técnica para mantener un entorno digital actualizado, activo, accesible, adaptable y visible.
+        p(data-aos="fade-left") La producción de contenidos digitales considera una gran variedad de características bajo criterios de seguridad, originalidad, derechos de autor, ética y responsabilidad profesional, siendo <i>Internet</i> el medio de comunicación masivo como puente de difusión que permite que cualquier persona comparta y reciba información. Por tanto, la gestión de contenidos digitales está basada en administrar día a día todo lo que ocurre con las plataformas y los sitios web propiedad de la empresa o marca. En otras palabras, es la técnica para mantener un entorno digital actualizado, activo, accesible, adaptable y visible.
 
         p(data-aos="fade-left") Ahora bien, un gestor de contenidos digitales debe poseer las características esenciales que asegure el éxito en la organización, este debe ser capaz de identificar características de narración multimedia, impulsar narrativas digitales de calidad, comprender fundamentos de la red como medio, facilitar la inmersión en nuevas tecnologías, y desarrollar habilidades en la gestión de proyectos digitales.
 
@@ -27,7 +27,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img2.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h5.my-5.text-center <i>blog</i>
-              p.my-5.text-center Es un sitio <i>web</i> personal donde se publica cualquier tema que se desee compartir, este se actualiza de manera periódica y recopila textos y artículos cronológicamente de uno o varios autores.
+              p.my-5.text-center Es un sitio web personal donde se publica cualquier tema que se desee compartir, este se actualiza de manera periódica y recopila textos y artículos cronológicamente de uno o varios autores.
 
       .col-lg-5.col-md-8.mb-4
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
@@ -36,7 +36,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h5.mt-5.text-center <i>Landing Page</i>
-              p.text-center Es una página <i>web</i> diseñada como destino o “aterrizaje” que permite convertir visitantes en clientes finales. Su funcionamiento es sencillo, al ofrecer algo que llame la atención del usuario, estará más dispuesto a dejar información a través de algún formulario, así al quedar registrado en la base de datos del dueño de la página podrá acceder a diversos contenidos de interés.
+              p.text-center Es una página web diseñada como destino o “aterrizaje” que permite convertir visitantes en clientes finales. Su funcionamiento es sencillo, al ofrecer algo que llame la atención del usuario, estará más dispuesto a dejar información a través de algún formulario, así al quedar registrado en la base de datos del dueño de la página podrá acceder a diversos contenidos de interés.
 
     .row.justify-content-center.align-items-center.mb-5
       p(data-aos="fade-right") De nada sirve gastar tiempo y recursos en fantásticas publicaciones en <i>Facebook</i> y muchos <i>tweets</i> si luego no se sabe cómo controlar eficazmente su impacto e influencia. Contar el número de seguidores que se tiene solo cuenta una parte de la historia.
@@ -121,9 +121,9 @@
       .col-lg-9
         p(data-aos="fade-right") Cuando se piensa en crear una estrategia de redes sociales para una empresa, probablemente vengan a la mente de inmediato algunas de las principales plataformas: <i>Facebook</i>, <i>Instagram</i>, <i>Twitter</i>, y quizás YouTube o <i>Pinterest</i>, dependiendo del sector. Sin embargo, existen muchos tipos de redes sociales, con nuevas plataformas y formatos que aparecen regularmente. Algunos son bastante especializados, mientras que otros tienen el potencial de convertirse en el próximo <i>Instagram</i> o <i>TikTok</i>.
 
-        p(data-aos="fade-right") Una cosa que ha cambiado desde los primeros días de las redes sociales es que muchas plataformas solían centrarse en una función, como las redes sociales o el intercambio de imágenes. Ahora, la mayoría de las plataformas de medios sociales establecidas se han ampliado para incorporar la transmisión en vivo, la realidad aumentada, las compras, el audio social y más. Así que, en lugar de ofrecer descripciones de alto nivel, pueden
+        p(data-aos="fade-right") Una cosa que ha cambiado desde los primeros días de las redes sociales es que muchas plataformas solían centrarse en una función, como las redes sociales o el intercambio de imágenes. Ahora, la mayoría de las plataformas de medios sociales establecidas se han ampliado para incorporar la transmisión en vivo, la realidad aumentada, las compras, el audio social y más. Así que, en lugar de ofrecer descripciones de alto nivel.
 
-        p(data-aos="fade-right") Encontrarlas en cualquier sitio, se han agrupado una amplia variedad de plataformas en nueve categorías generales que se centran en casos de uso específicos y en lo que las empresas pueden conseguir al utilizarlas.
+        p(data-aos="fade-right") Pueden encontrarlas en cualquier sitio, se han agrupado una amplia variedad de plataformas en nueve categorías generales que se centran en casos de uso específicos y en lo que las empresas pueden conseguir al utilizarlas.
 
       .col-10.col-lg-3
         figure(data-aos="fade-left")

@@ -75,7 +75,7 @@
             .titulo-segundo.color-acento-contenido
               h2 Herramientas de base de datos
 
-            p.mb-5 Con la intención de profundizar en el tema, le invitamos a que acceda en los materiales complementarios de este subtema, donde se relaciona un artículo <i>web</i> sobre las “7 herramientas de administración de bases de datos que debe conocer como DBA o Sysadminy”; así conocerá más sobre las diversas herramientas de administración de base de datos.
+            p.mb-5 Con la intención de profundizar en el tema, le invitamos a que acceda en los materiales complementarios de este subtema, donde se relaciona un artículo web sobre las “7 herramientas de administración de bases de datos que debe conocer como DBA o Sysadminy”; así conocerá más sobre las diversas herramientas de administración de base de datos.
 
             .col-sm-auto
               a.boton.color-acento-botones(href="https://geekflare.com/es/database-management-tools/" target="_blank")
@@ -149,7 +149,7 @@
             .col-4.col-lg-3
               img(src='@/assets/curso/temas/tema1/img11.svg', alt='Imágen decorativa')
             
-            p.mt-3 #[b #[i Twitter:]] ha adoptado históricamente un enfoque muy diferente con lo que llama "<i>Timeline</i>". Este es el flujo de tweets de los usuarios que sigue que aparece en la página de inicio de su cuenta cuando usted se conecta por primera vez. Solía estar compuesto por todos los tweets de todos los usuarios que seguía en orden cronológico, pero se descubrió que los usuarios sentían que se perdían los mejores tweets de las personas que más les importaban.
+            p.mt-3 #[b #[i Twitter:]] ha adoptado históricamente un enfoque muy diferente con lo que llama "<i>Timeline</i>". Este es el flujo de <i>tweets</i> de los usuarios que sigue que aparece en la página de inicio de su cuenta cuando usted se conecta por primera vez. Solía estar compuesto por todos los <i>tweets</i> de todos los usuarios que seguía en orden cronológico, pero se descubrió que los usuarios sentían que se perdían los mejores <i>tweets</i> de las personas que más les importaban.
 
         .tarjeta.tarjeta-rosa.p-5
           .row.mb-3
@@ -196,7 +196,7 @@
               b Impacto global de sus canales de <i>marketing</i>, como la búsqueda orgánica, la búsqueda de pago, las redes sociales, las referencias, etc.
             li 
               i.fas.fa-check
-              b Cómo se comportan los usuarios en su sitio <i>web</i> e interactúan con sus diferentes iniciativas de <i>marketing</i>.
+              b Cómo se comportan los usuarios en su sitio web e interactúan con sus diferentes iniciativas de <i>marketing</i>.
             li 
               i.fas.fa-check
               b Qué fuentes de clientes potenciales están generando el mayor valor comercial.
