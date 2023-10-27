@@ -121,9 +121,8 @@
       .col-lg-9
         p(data-aos="fade-right") Cuando se piensa en crear una estrategia de redes sociales para una empresa, probablemente vengan a la mente de inmediato algunas de las principales plataformas: <i>Facebook</i>, <i>Instagram</i>, <i>Twitter</i>, y quizás YouTube o <i>Pinterest</i>, dependiendo del sector. Sin embargo, existen muchos tipos de redes sociales, con nuevas plataformas y formatos que aparecen regularmente. Algunos son bastante especializados, mientras que otros tienen el potencial de convertirse en el próximo <i>Instagram</i> o <i>TikTok</i>.
 
-        p(data-aos="fade-right") Una cosa que ha cambiado desde los primeros días de las redes sociales es que muchas plataformas solían centrarse en una función, como las redes sociales o el intercambio de imágenes. Ahora, la mayoría de las plataformas de medios sociales establecidas se han ampliado para incorporar la transmisión en vivo, la realidad aumentada, las compras, el audio social y más. Así que, en lugar de ofrecer descripciones de alto nivel.
+        p(data-aos="fade-right") Una cosa que ha cambiado desde los primeros días de las redes sociales es que muchas plataformas solían centrarse en una función, como las redes sociales o el intercambio de imágenes. Ahora, la mayoría de las plataformas de medios sociales establecidas se han ampliado para incorporar la transmisión en vivo, la realidad aumentada, las compras, el audio social y más. Así que, en lugar de ofrecer descripciones de alto nivel, pueden encontrarlas en cualquier sitio, se han agrupado una amplia variedad de plataformas en nueve categorías generales que se centran en casos de uso específicos y en lo que las empresas pueden conseguir al utilizarlas.
 
-        p(data-aos="fade-right") Pueden encontrarlas en cualquier sitio, se han agrupado una amplia variedad de plataformas en nueve categorías generales que se centran en casos de uso específicos y en lo que las empresas pueden conseguir al utilizarlas.
 
       .col-10.col-lg-3
         figure(data-aos="fade-left")
