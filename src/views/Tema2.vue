@@ -151,7 +151,7 @@
               p.mb-0 #[b Impresiones:] número de veces que se ha mostrado un anuncio.
             li 
               i.fas.fa-check
-              p.mb-0 #[b #[i clics]:] número de veces que se ha hecho <i>clic</i> en un anuncio.
+              p.mb-0 #[b clics:] número de veces que se ha hecho clic en un anuncio.
             li 
               i.fas.fa-check
               p.mb-0 #[b Nivel de calidad:] puntuación otorgada por Google de una palabra clave y de un anuncio y que determinan su costo.
@@ -160,7 +160,7 @@
           ul.lista-ul--color.fa-ul2
             li 
               i.fas.fa-check
-              p.mb-0 #[b Redacción y optimización del texto de los anuncios:] además de atraer muchos más usuarios, también supondrá un mejor posicionamiento dentro del grupo de los enlaces patrocinados, lo que hace que anuncios que tienen mejor porcentaje de <i>clics</i> salgan por delante y otros sean relegados a las últimas posiciones o incluso eliminados de los resultados de búsqueda.
+              p.mb-0 #[b Redacción y optimización del texto de los anuncios:] además de atraer muchos más usuarios, también supondrá un mejor posicionamiento dentro del grupo de los enlaces patrocinados, lo que hace que anuncios que tienen mejor porcentaje de clics salgan por delante y otros sean relegados a las últimas posiciones o incluso eliminados de los resultados de búsqueda.
             li 
               i.fas.fa-check
               p.mb-0 #[b Selección de la ubicación de los anuncios:] la elección del sitio web donde anunciarse es fundamental. Un análisis del público objetivo, de los hábitos y costumbres de estos será la clave para escoger unos u otros. 
@@ -200,7 +200,7 @@
                 p.mb-0 Monitorización en tiempo real.
               li 
                 i.fas.fa-check
-                p.mb-0 Pago por <i>clic</i>.
+                p.mb-0 Pago por clic.
               li 
                 i.fas.fa-check
                 p.mb-0 Rapidez.
@@ -227,7 +227,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img7.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h5.mt-4.texto-negro Redacción y optimización del texto de los anuncios
-              p.mb-5.texto-negro Además de atraer muchos más usuarios, también supondrá un mejor posicionamiento dentro del grupo de los enlaces patrocinados, lo que hace que anuncios que tienen mejor porcentaje de #[i clics] salgan por delante y otros sean relegados a las últimas posiciones o incluso eliminados de los resultados de búsqueda. 
+              p.mb-5.texto-negro Además de atraer muchos más usuarios, también supondrá un mejor posicionamiento dentro del grupo de los enlaces patrocinados, lo que hace que anuncios que tienen mejor porcentaje de clics salgan por delante y otros sean relegados a las últimas posiciones o incluso eliminados de los resultados de búsqueda. 
 
       .col-lg-4.col-md-8.mb-4
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
@@ -255,7 +255,7 @@
     .row.justify-content-center.align-items-center.mb-5
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordion2")
         .row.p-4(titulo="Tráfico cualificado hacia su página")
-          p Una de las bases de cualquier estrategia de <i>marketing</i> digital es la de atraer a los usuarios correctos hacia su web. El <i>marketing</i> de motores de búsqueda es muy efectivo a la hora de atraer la atención de los usuarios y generar <i>clics</i>, gracias a que permite filtrar a los usuarios en función de las palabras que buscan, lo que le  asegura que este tráfico esté compuesto por personas que a priori, estén interesadas en su marca.
+          p Una de las bases de cualquier estrategia de <i>marketing</i> digital es la de atraer a los usuarios correctos hacia su web. El <i>marketing</i> de motores de búsqueda es muy efectivo a la hora de atraer la atención de los usuarios y generar clics, gracias a que permite filtrar a los usuarios en función de las palabras que buscan, lo que le  asegura que este tráfico esté compuesto por personas que a priori, estén interesadas en su marca.
 
         .row.p-4(titulo="Dar a conocer la marca o empresa")
           p Colocarse en los primeros puestos de Google es una manera fantástica de conseguir visibilidad para una marca. El hecho de que un usuario no haga clic sobre su anuncio, no significa que no lo haya visto.
@@ -295,7 +295,7 @@
         .row.p-4(titulo="Monitorización en tiempo real")
           p Es lo que permite realizar un seguimiento continuo y actualizado de una campaña, gracias a lo cual se pueden realizar modificaciones sobre la marcha en algunos parámetros.
 
-        .row.p-4(titulo="Pago por <i>clic</i>")
+        .row.p-4(titulo="Pago por clic")
           p Con esto la campaña cuesta dinero solo si se consiguen resultados. Gracias a la configurabilidad de la herramienta se puede controlar y ajustar el presupuesto de manera dinámica, y otros conceptos como el número máximo de clics por día, asegurando la rentabilidad de la campaña.
 
         .row.p-4(titulo="Rapidez")
@@ -334,7 +334,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
 
-            p.mt-5 Al crear un <i>FanPage</i> en <i>Facebook</i>, le da la opción de integrar un botón de llamado a la acción y este puede configurarse para que con tan sólo un <i>clic</i> lo lleve a la App de <i>WhatsApp</i> y generar una conversación más personalizada empresario-cliente.
+            p.mt-5 Al crear un <i>FanPage</i> en <i>Facebook</i>, le da la opción de integrar un botón de llamado a la acción y este puede configurarse para que con tan sólo un clic lo lleve a la App de <i>WhatsApp</i> y generar una conversación más personalizada empresario-cliente.
 
           .col-md-6
             figure
@@ -343,7 +343,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
 
-            p.mt-5 Ahora bien, desde la configuración de la <i>fanpage</i>, se puede integrar con el perfil de <i>Instagram</i>, creando una plataforma omnicanal para mejor experiencia y comunicación del cliente; este aspecto es fundamental, debido a que el usuario tendrá disponible tres canales de comunicación a tan solo un <i>clic</i> (<i>Messenger</i>, <i>WhatsApp</i> y <i>Direct</i>).
+            p.mt-5 Ahora bien, desde la configuración de la <i>fanpage</i>, se puede integrar con el perfil de <i>Instagram</i>, creando una plataforma omnicanal para mejor experiencia y comunicación del cliente; este aspecto es fundamental, debido a que el usuario tendrá disponible tres canales de comunicación a tan solo un clic (<i>Messenger</i>, <i>WhatsApp</i> y <i>Direct</i>).
 
           .col-md-6
             figure
