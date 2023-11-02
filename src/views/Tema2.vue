@@ -7,14 +7,126 @@
         span 2
       h1 Evaluación de contenido y optimización
 
-    .bg1
-      .row.justify-content-center.align-items-center.mb-5
-        .col-5.col-md-2.col-lg-1
-          figure.mb-lg-5(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema2/img1.svg', alt='Imágen decorativa')
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .row
+          .col-5.col-md-2.col-lg-2
+            figure.mb-lg-5(data-aos="fade-right")
+              img(src='@/assets/curso/temas/tema2/img1.svg', alt='Imágen decorativa')
 
-        .col-md-10.col-lg-11
-          p.mb-5(data-aos="fade-left") La optimización del contenido en SMO es un sistema o una lista de tareas que se puede hacer para asegurar que el contenido pueda ser encontrado por el mayor número de personas posible en Internet. Si alguna vez ha añadido una etiqueta <i>alt</i> a una imagen o ha puesto una palabra clave en la URL de una página web, es posible que ya esté familiarizado con esta técnica.
+          .col-md-10.col-lg-10
+            p.mb-5(data-aos="fade-left") La optimización del contenido en SMO es un sistema o una lista de tareas que se puede hacer para asegurar que el contenido pueda ser encontrado por el mayor número de personas posible en Internet. Si alguna vez ha añadido una etiqueta <i>alt</i> a una imagen o ha puesto una palabra clave en la URL de una página web, es posible que ya esté familiarizado con esta técnica.
+
+        p Son utilizadas a diario para establecer relaciones en el ámbito social, profesional y personal, puede parecer que se sabe todo sobre las redes sociales, sin embargo, es importante conocer los siguientes conceptos:
+
+        p SMO hace referencia al uso de las redes sociales para dar relevancia a un determinado sitio web incrementando el tráfico que recibe, el cual está estrechamente ligado con el marketing digital. El fin principal es la utilización de las redes sociales para ampliar la presencia digital de una marca y mejorar su estrategia de posicionamiento a partir de optimizaciones que hacen que los canales tengan una forma óptima para el cumplimiento de los objetivos.
+
+      .col-lg-4
+        figure
+          img(src='@/assets/curso/temas/tema2/img1-1.png', alt='Imágen decorativa')
+
+    .row.align-items-center.mb-5
+      .col-lg-4
+        figure(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema2/titulo3.svg', alt='Imágen decorativa')
+
+    p Al momento de analizar la información que arrojan las redes sociales no es suficiente saber el número de veces que se comparte el contenido, ni el número de seguidores que se tienen; ya que, las redes sociales proporcionan grandes volúmenes de datos que pueden ser analizados para identificar patrones y preferencias colectivas, por lo que seré útil profundizar en la información, que permita ir más allá, dicha información permitirá saber quién está en la red y con quien interactúa.
+
+    p.mb-5 Optimizar el contenido en redes sociales consiste en compartir enlaces para que todos usuarios de la red comenten, califiquen la publicación con un “me gusta”, den clic, respuestas, menciones, o los diferentes algoritmos programados en los motores de búsqueda que lo hacen más relevante.
+
+    .row.justify-content-center.align-items-center.mb-5
+      AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordion2")
+        .row.p-4(titulo="Identificar la audiencia de cada plataforma")
+          .col-lg-8
+            p Son valiosas para construir conexiones con la audiencia, pero ¿Cuáles son las mejores para alcanzar los objetivos? Para saber esto es importante conocer a fondo las redes sociales y lo que cada una de ellas ofrece, en otras palabras “su razón de ser”. Es por ello que las personas interactúan de manera diferente en cada una de ellas, así como esperan encontrar un contenido específico en la red en la que están navegando.
+
+            p Por ejemplo: las conversaciones que se desarrollan en <i>Linkenid</i> son bastantes diferentes a las que se tienen en <i>Tik Tok</i> o en <i>Twitter</i>, es por esto que se hace necesario conocer quién es la audiencia a la que está dirigido el contenido, a cuál red social está dirigido y de esta manera optimizar los resultados que se están buscando. Es por ello que, se debe diseñar un mensaje que se ajuste a las especificaciones de la plataforma y las expectativas del público que pasa tiempo en cada una de ellas.
+          
+          .col-6.col-lg-4
+            figure
+              img(src='@/assets/curso/temas/tema2/img22.png', alt='Imágen decorativa')
+
+        .row.p-4(titulo="Crear contenido para compartir")
+          .col-lg-8
+            p es una de las mejores maneras de disparar el alcance del tráfico de las cuentas, la fórmula es simple:
+
+            .row.justify-content-center.align-items-center.mb-3
+              .col-lg-11
+                .tarjeta.color.tarjeta-morada4.p-4
+                  h4.text-center.mb-0 <b style= 'color:#ffffff;'>+ Contenido compartido = + tráfico = + compromiso =</b> <b style= 'color:#FFCE1F;'>+ clientes</b>
+
+            p Es importante que la audiencia perciba la intensión de manera correcta, la más mínima intensión de viralizar el contenido que sea percibida, puede afectar negativamente la imagen de una marca y la visión que el público tiene de una empresa.
+
+            p La primera preocupación al crear contenido será que éste logre satisfacer las necesidades y los deseos del público objetivo. Algunas de las mejores tácticas para ello son:
+
+            .row.justify-content-center.align-items-center.mb-3
+              .col-lg-6
+                ul.lista-ul--color.fa-ul2
+                  li
+                    i.fas.fa-check(style="color:#6936C1")
+                    p.mb-0 Realizar una investigación profunda.
+                  li 
+                    i.fas.fa-check(style="color:#6936C1")
+                    p.mb-0 Narrar historias atractivas e inspiradoras.
+                  li 
+                    i.fas.fa-check(style="color:#6936C1")
+                    p.mb-0 Validar opiniones de clientes.
+                  li 
+                    i.fas.fa-check(style="color:#6936C1")
+                    p.mb-0 Apelar a valores de la audiencia.
+
+              .col-lg-6
+                ul.lista-ul--color.fa-ul2
+                  li 
+                    i.fas.fa-check(style="color:#6936C1")
+                    p.mb-0 Crear contenido útil con valor añadido.
+                  li 
+                    i.fas.fa-check(style="color:#6936C1")
+                    p.mb-0 Aprobar temas de tendencia.
+                  li 
+                    i.fas.fa-check(style="color:#6936C1")
+                    p.mb-0 Involucrar a la audiencia en la creación del contenido que se está construyendo.
+
+          .col-6.col-lg-4
+            figure
+              img(src='@/assets/curso/temas/tema2/img23.png', alt='Imágen decorativa')
+
+        .row.p-4(titulo="Interactuar con la audiencia")
+          .col-lg-8
+            p saber cómo realizar este proceso, entendiendo que las personas no solamente buscan conexión, sino que también buscan interacción con otras personas con las que se identifican ya sean a través de un personajes, marcas o productos. Las plataformas en las que funcionan las redes sociales han hecho que las interacciones sociales auténticas sean parte crucial de cualquier estrategia de <i>maketing</i>.
+
+            p Es una excelente manera de medir si el contenido está cumpliendo su función de captar clientes, ya que esta información permite verificar sí:
+
+            ul.lista-ul--color.fa-ul2
+              li
+                i.fas.fa-check(style="color:#6936C1")
+                p.mb-0 Interactúa correctamente con la audiencia y en qué medida.
+              li
+                i.fas.fa-check(style="color:#6936C1")
+                p.mb-0 Establece un discurso coherente.
+              li
+                i.fas.fa-check(style="color:#6936C1")
+                p.mb-0 Conoce el algoritmo de la plataforma.
+              li
+                i.fas.fa-check(style="color:#6936C1")
+                p.mb-0 Mide y monitorea la precisión del impacto en la participación en las redes sociales.
+
+          .col-6.col-lg-4
+            figure
+              img(src='@/assets/curso/temas/tema2/img24.png', alt='Imágen decorativa')
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -52,7 +164,7 @@
       .col-lg-6
         .tarjeta.tarjeta-morada2.mb-3(data-aos="flip-right")
           .row.justify-content-center
-            img(src='@/assets/curso/temas/tema2/img2.svg', alt='Imágen decorativa')
+            img(src='@/assets/curso/temas/tema2/img2.png', alt='Imágen decorativa')
           .p-4  
             h4 Relevancia
             p Google considera que una web es relevante cuando se corresponde con precisión con una búsqueda concreta, esto es, cuando responde a la duda o la pregunta que ha formulado el usuario. Para mejorar la relevancia de la web que se quiere posicionar, se utilizan técnicas de SEO <i>on site4</i>: optimización de palabras clave y URL, tiempos de carga más rápidos, mejor experiencia de usuario, entre otras.
@@ -60,7 +172,7 @@
       .col-lg-6
         .tarjeta.tarjeta-morada2.mb-3(data-aos="flip-left")
           .row.justify-content-center
-            img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imágen decorativa')
+            img(src='@/assets/curso/temas/tema2/img3.png', alt='Imágen decorativa')
           .p-4  
             h4 Autoridad
             p Un sitio web tiene autoridad cuando es popular y esta popularidad se mide según el número de enlaces que apuntan hacia ella. Para mejorar la autoridad de una web se usan técnicas de SEO <i>off site5</i>, entre las que destaca el <i>linkbuilding</i>.
@@ -71,7 +183,7 @@
       ImagenInfografica.color-acento-contenido
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/temas/tema2/img4.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema2/img4.svg', alt='Muestra estrategias que presenta SEO<br>1. Planificar<br>2. Estudiar<br>3. Escuchar<br>4. Evitar<br>5. Medir<br>6. Establecer<br>7. Actualizar')
 
         .tarjeta.tarjeta-naranja2.p-3(x="13%" y="40%" numero="+")
           p <b>Planificación de contenidos</b> 
@@ -128,7 +240,7 @@
 
       .col-10.col-lg-3
         figure(data-aos="fade-left")
-          img(src='@/assets/curso/temas/tema2/img6.svg', alt='Imágen decorativa')
+          img(src='@/assets/curso/temas/tema2/img6.png', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordion")
@@ -168,84 +280,6 @@
               i.fas.fa-check
               p.mb-0 #[b Selección de la época del año:] la realización de campañas de SEM para épocas del año en que la demanda del negocio es mayor (productos estacionales), o bien, para el lanzamiento de algún producto, puede resultar muy interesante y beneficioso.
 
-        .row.p-4(titulo="Beneficios SEM")
-          .col-lg-5
-            ul.lista-ul--color.fa-ul2
-              li  
-                i.fas.fa-check
-                p.mb-0 Tráfico cualificado hacia su página.
-              li 
-                i.fas.fa-check
-                p.mb-0 Dar a conocer la marca o empresa. 
-              li 
-                i.fas.fa-check
-                p.mb-0 Generar conversiones. 
-              li 
-                i.fas.fa-check
-                p.mb-0 Grandes resultados con presupuestos pequeños.
-              li 
-                i.fas.fa-check
-                p.mb-0 Datos relevantes. 
-              li 
-                i.fas.fa-check
-                p.mb-0 Posibilidades de personalización.
-              li 
-                i.fas.fa-check
-                p.mb-0 Resultados medibles.
-
-          .col-lg-5
-            ul.lista-ul--color.fa-ul2
-              li 
-                i.fas.fa-check
-                p.mb-0 Monitorización en tiempo real.
-              li 
-                i.fas.fa-check
-                p.mb-0 Pago por clic.
-              li 
-                i.fas.fa-check
-                p.mb-0 Rapidez.
-              li 
-                i.fas.fa-check
-                p.mb-0 Sencillez de uso.
-              li 
-                i.fas.fa-check
-                p.mb-0 Accesibilidad.
-              li 
-                i.fas.fa-check
-                p.mb-0 Segmentación.
-
-    .row.align-items-center.mb-5
-      .col-lg-5
-        figure(data-aos="fade-right")
-          img(src='@/assets/curso/temas/tema2/titulo1.svg', alt='Imágen decorativa')
-
-    .row.justify-content-center.mb-5
-      .col-lg-4.col-md-8.mb-4
-        .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
-          .indicador--hover(v-if="indicadorTarjetaFlip")
-          .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img7.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.mt-4.texto-negro Redacción y optimización del texto de los anuncios
-              p.mb-5.texto-negro Además de atraer muchos más usuarios, también supondrá un mejor posicionamiento dentro del grupo de los enlaces patrocinados, lo que hace que anuncios que tienen mejor porcentaje de clics salgan por delante y otros sean relegados a las últimas posiciones o incluso eliminados de los resultados de búsqueda. 
-
-      .col-lg-4.col-md-8.mb-4
-        .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
-          .indicador--hover(v-if="indicadorTarjetaFlip")
-          .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img8.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.mt-4.texto-negro Selección de la ubicación de los anuncios
-              p.texto-negro La elección del sitio web donde anunciarse es fundamental. Un análisis del público objetivo, de los hábitos y costumbres de estos será la clave para escoger unos u otros. 
-
-      .col-lg-4.col-md-8.mb-4
-        .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
-          .indicador--hover(v-if="indicadorTarjetaFlip")
-          .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img9.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.mt-4.texto-negro Selección de la época del año
-              p.texto-negro La realización de campañas de SEM para épocas del año en que la demanda del negocio es mayor (productos estacionales), o bien, para el lanzamiento de algún producto, puede resultar muy interesante y beneficioso. 
 
     .row.align-items-center.mb-5
       .col-lg-4
