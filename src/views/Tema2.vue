@@ -171,7 +171,7 @@
       ImagenInfografica.color-acento-contenido
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/temas/tema2/img4.svg', alt='Muestra estrategias que presenta SEO<br>1. Planificar<br>2. Estudiar<br>3. Escuchar<br>4. Evitar<br>5. Medir<br>6. Establecer<br>7. Actualizar')
+            img(src='@/assets/curso/temas/tema2/img4.svg', alt='Imagen que muestra estrategias que presenta el SEO como son las siguientes y las cuales se explican debajo de la imagen: 1. Planificar 2. Estudiar 3. Escuchar 4. Evitar 5. Medir 6. Establecer 7. Actualizar')
 
         .tarjeta.tarjeta-naranja2.p-3(x="13%" y="40%" numero="+")
           p <b>Planificación de contenidos</b> 

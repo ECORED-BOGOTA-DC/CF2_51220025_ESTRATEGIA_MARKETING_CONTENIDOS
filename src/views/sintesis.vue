@@ -9,7 +9,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra mapa conceptual donde señala los 3 grandes contenidos Bigdata,  evaluación de contenidos y gestión de contenidos con los temas mas relevantes estudiados")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Imagen que muestra el mapa conceptual donde señala los 3 grandes aspectos dentro de la optimización de la imagen en las redes sociales, los cuales son: 1. el big data que incluye open source, herramientas de gestión, criterios de identificación y técnicas de herramientas de analytics;  2. la evaluación de contenidos que tiene factores y métodos SEO y SEM, técnicas de valorización de información y optimización de contenidos, así como métricas relacionadas con el barrido; 3. la gestión de contenidos que incluye línea editorial, comunicación efectiva y plan de mejoramiento.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

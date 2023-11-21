@@ -46,7 +46,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       figure(data-aos="flip-left")
-        img(src='@/assets/curso/temas/tema1/img3.svg', alt='Muestra infografía de Open source con su evolución que se describe cada item en la parte inferior')
+        img(src='@/assets/curso/temas/tema1/img3.svg', alt='Imagen que muestra infografía de Open source con su evolución, la cual se describe en la parte inferior.')
 
 
     separador
@@ -86,7 +86,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       figure
-        img(src='@/assets/curso/temas/tema1/img6.svg', alt='Muestra infografía texto de normalización de data y se describe cada ítem en la parte inferior de la imagen')
+        img(src='@/assets/curso/temas/tema1/img6.svg', alt='Imagen que contiene una infografía sobre la normalización de data y se describe cada ítem en la parte inferior de la imagen.')
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta-rosa.p-5(data-aos="flip-down")
