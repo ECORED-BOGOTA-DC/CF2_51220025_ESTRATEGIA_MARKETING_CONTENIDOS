@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema3/img1.svg', alt='Imágen decorativa')
 
       .col-lg-9
-        p(data-aos="fade-left") La producción de contenidos digitales considera una gran variedad de características bajo criterios de seguridad, originalidad, derechos de autor, ética y responsabilidad profesional, siendo <i>Internet</i> el medio de comunicación masivo como puente de difusión que permite que cualquier persona comparta y reciba información. Por tanto, la gestión de contenidos digitales está basada en administrar día a día todo lo que ocurre con las plataformas y los sitios web propiedad de la empresa o marca. En otras palabras, es la técnica para mantener un entorno digital actualizado, activo, accesible, adaptable y visible.
+        p(data-aos="fade-left") La producción de contenidos digitales considera una gran variedad de características bajo criterios de seguridad, originalidad, derechos de autor, ética y responsabilidad profesional, siendo Internet el medio de comunicación masivo como puente de difusión que permite que cualquier persona comparta y reciba información. Por tanto, la gestión de contenidos digitales está basada en administrar día a día todo lo que ocurre con las plataformas y los sitios web propiedad de la empresa o marca. En otras palabras, es la técnica para mantener un entorno digital actualizado, activo, accesible, adaptable y visible.
 
         p(data-aos="fade-left") Ahora bien, un gestor de contenidos digitales debe poseer las características esenciales que asegure el éxito en la organización, este debe ser capaz de identificar características de narración multimedia, impulsar narrativas digitales de calidad, comprender fundamentos de la red como medio, facilitar la inmersión en nuevas tecnologías, y desarrollar habilidades en la gestión de proyectos digitales.
 
@@ -26,7 +26,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img2.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.my-5.text-center <i>blog</i>
+              h5.my-5.text-center blog
               p.my-5.text-center Es un sitio web personal donde se publica cualquier tema que se desee compartir, este se actualiza de manera periódica y recopila textos y artículos cronológicamente de uno o varios autores.
 
       .col-lg-5.col-md-8.mb-4
@@ -39,7 +39,7 @@
               p.text-center Es una página web diseñada como destino o “aterrizaje” que permite convertir visitantes en clientes finales. Su funcionamiento es sencillo, al ofrecer algo que llame la atención del usuario, estará más dispuesto a dejar información a través de algún formulario, así al quedar registrado en la base de datos del dueño de la página podrá acceder a diversos contenidos de interés.
 
     .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-right") De nada sirve gastar tiempo y recursos en fantásticas publicaciones en <i>Facebook</i> y muchos <i>tweets</i> si luego no se sabe cómo controlar eficazmente su impacto e influencia. Contar el número de seguidores que se tiene solo cuenta una parte de la historia.
+      p(data-aos="fade-right") De nada sirve gastar tiempo y recursos en fantásticas publicaciones en Facebook y muchos <i>tweets</i> si luego no se sabe cómo controlar eficazmente su impacto e influencia. Contar el número de seguidores que se tiene solo cuenta una parte de la historia.
 
       p(data-aos="fade-left") Por ejemplo, aunque las empresas suelen considerar que las redes sociales son esenciales, a menudo no se dan cuenta de que el público de estas no está en un estado de ánimo transaccional, por lo que las ventas directas no suelen funcionar a menos que estén limitadas en el tiempo. Sin embargo, como plataformas de comunicación para el desarrollo de la marca, los medios sociales pueden ser muy eficaces.
 
@@ -53,11 +53,11 @@
           img(src='@/assets/curso/temas/tema3/img4.svg', alt='Imágen decorativa')
 
       .col-lg-8
-        p(data-aos="fade-left") A menudo el llamado <i>marketing</i> de contenidos o carta editorial, está estrechamente vinculada a la referenciación natural, ella planifica las acciones que sirven para aumentar sus posiciones en los motores de búsqueda como Google sin invertir un presupuesto colosal en una campaña de <i>Adwords</i>. Para construir la estrategia editorial, se debe definir en primer lugar el objetivo de la estrategia, es decir, por qué escribe y sobre qué tema, a quién se dirige, cuándo decide hacerlo y dónde.
+        p(data-aos="fade-left") A menudo el llamado <i>marketing</i> de contenidos o carta editorial, está estrechamente vinculada a la referenciación natural, ella planifica las acciones que sirven para aumentar sus posiciones en los motores de búsqueda como Google sin invertir un presupuesto colosal en una campaña de AdWords. Para construir la estrategia editorial, se debe definir en primer lugar el objetivo de la estrategia, es decir, por qué escribe y sobre qué tema, a quién se dirige, cuándo decide hacerlo y dónde.
 
         p(data-aos="fade-left") La línea editorial son todas las reglas que le permiten garantizar la armonía entre los diferentes contenidos que publica, defina sus objetivos, su tono, sus canales de distribución y oriente la selección de los temas a tratar en función de los intereses de su público objetivo. Al igual que una carta gráfica la línea editorial ayuda a guiar al escritor en la creación de contenidos.
 
-        p(data-aos="fade-left") Al tener la línea editorial, esta refleja el sector y la marca. Por ejemplo, una empresa especializada en muebles para el hogar debería publicar en su <i>blog</i> y redes sociales talleres de bricolaje, consejos de decoración o nuevas tendencias en muebles, entre otras cosas.
+        p(data-aos="fade-left") Al tener la línea editorial, esta refleja el sector y la marca. Por ejemplo, una empresa especializada en muebles para el hogar debería publicar en su blog y redes sociales talleres de bricolaje, consejos de decoración o nuevas tendencias en muebles, entre otras cosas.
 
     .row.mb-5
       .col-lg-5
@@ -119,7 +119,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
-        p(data-aos="fade-right") Cuando se piensa en crear una estrategia de redes sociales para una empresa, probablemente vengan a la mente de inmediato algunas de las principales plataformas: <i>Facebook</i>, <i>Instagram</i>, <i>Twitter</i>, y quizás YouTube o <i>Pinterest</i>, dependiendo del sector. Sin embargo, existen muchos tipos de redes sociales, con nuevas plataformas y formatos que aparecen regularmente. Algunos son bastante especializados, mientras que otros tienen el potencial de convertirse en el próximo <i>Instagram</i> o <i>TikTok</i>.
+        p(data-aos="fade-right") Cuando se piensa en crear una estrategia de redes sociales para una empresa, probablemente vengan a la mente de inmediato algunas de las principales plataformas: Facebook, Instagram, Twitter, y quizás YouTube o Pinterest, dependiendo del sector. Sin embargo, existen muchos tipos de redes sociales, con nuevas plataformas y formatos que aparecen regularmente. Algunos son bastante especializados, mientras que otros tienen el potencial de convertirse en el próximo Instagram o TikTok.
 
         p(data-aos="fade-right") Una cosa que ha cambiado desde los primeros días de las redes sociales es que muchas plataformas solían centrarse en una función, como las redes sociales o el intercambio de imágenes. Ahora, la mayoría de las plataformas de medios sociales establecidas se han ampliado para incorporar la transmisión en vivo, la realidad aumentada, las compras, el audio social y más. Así que, en lugar de ofrecer descripciones de alto nivel, pueden encontrarlas en cualquier sitio, se han agrupado una amplia variedad de plataformas en nueve categorías generales que se centran en casos de uso específicos y en lo que las empresas pueden conseguir al utilizarlas.
 
@@ -170,7 +170,7 @@
 
             p <b style= 'color:#6936C1;'>Pregúntese:</b> ¿Qué plataformas se ajustan mejor a los objetivos de su negocio?
 
-            p Por ejemplo, si uno de sus objetivos es dar a conocer un nuevo producto o servicio que podría beneficiarse de los videotutoriales, debería centrarse en plataformas solo de vídeo (como YouTube y Vimeo) o en formatos de vídeo disponibles en los sitios en los que ya está activo (como <i>Instagram Stories</i> y <i>Reels</i>, <i>Facebook</i> Live, etc.).
+            p Por ejemplo, si uno de sus objetivos es dar a conocer un nuevo producto o servicio que podría beneficiarse de los videotutoriales, debería centrarse en plataformas solo de vídeo (como YouTube y Vimeo) o en formatos de vídeo disponibles en los sitios en los que ya está activo (como Instagram Stories y Reels, Facebook Live, etc.).
 
             p Sin importar cuáles sean sus necesidades y objetivos, es seguro que encontrará una forma de utilizar las redes sociales en beneficio de su negocio siempre realizando planes de mejora y actualización de las plataformas
 

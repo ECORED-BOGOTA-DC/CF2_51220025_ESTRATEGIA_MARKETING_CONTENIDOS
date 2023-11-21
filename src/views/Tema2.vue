@@ -40,7 +40,7 @@
           .col-lg-8
             p Son valiosas para construir conexiones con la audiencia, pero ¿Cuáles son las mejores para alcanzar los objetivos? Para saber esto es importante conocer a fondo las redes sociales y lo que cada una de ellas ofrece, en otras palabras “su razón de ser”. Es por ello que las personas interactúan de manera diferente en cada una de ellas, así como esperan encontrar un contenido específico en la red en la que están navegando.
 
-            p Por ejemplo: las conversaciones que se desarrollan en <i>Linkenid</i> son bastantes diferentes a las que se tienen en <i>Tik Tok</i> o en <i>Twitter</i>, es por esto que se hace necesario conocer quién es la audiencia a la que está dirigido el contenido, a cuál red social está dirigido y de esta manera optimizar los resultados que se están buscando. Es por ello que, se debe diseñar un mensaje que se ajuste a las especificaciones de la plataforma y las expectativas del público que pasa tiempo en cada una de ellas.
+            p Por ejemplo: las conversaciones que se desarrollan en Linkenid son bastantes diferentes a las que se tienen en TikTok o en Twitter, es por esto que se hace necesario conocer quién es la audiencia a la que está dirigido el contenido, a cuál red social está dirigido y de esta manera optimizar los resultados que se están buscando. Es por ello que, se debe diseñar un mensaje que se ajuste a las especificaciones de la plataforma y las expectativas del público que pasa tiempo en cada una de ellas.
           
           .col-6.col-lg-4
             figure
@@ -48,7 +48,7 @@
 
         .row.p-4(titulo="Crear contenido para compartir")
           .col-lg-8
-            p es una de las mejores maneras de disparar el alcance del tráfico de las cuentas, la fórmula es simple:
+            p Es una de las mejores maneras de disparar el alcance del tráfico de las cuentas, la fórmula es simple:
 
             .row.justify-content-center.align-items-center.mb-3
               .col-lg-11
@@ -93,7 +93,7 @@
 
         .row.p-4(titulo="Interactuar con la audiencia")
           .col-lg-8
-            p saber cómo realizar este proceso, entendiendo que las personas no solamente buscan conexión, sino que también buscan interacción con otras personas con las que se identifican ya sean a través de un personajes, marcas o productos. Las plataformas en las que funcionan las redes sociales han hecho que las interacciones sociales auténticas sean parte crucial de cualquier estrategia de <i>maketing</i>.
+            p Saber cómo realizar este proceso, entendiendo que las personas no solamente buscan conexión, sino que también buscan interacción con otras personas con las que se identifican ya sean a través de un personajes, marcas o productos. Las plataformas en las que funcionan las redes sociales han hecho que las interacciones sociales auténticas sean parte crucial de cualquier estrategia de <i>maketing</i>.
 
             p Es una excelente manera de medir si el contenido está cumpliendo su función de captar clientes, ya que esta información permite verificar sí:
 
@@ -114,18 +114,6 @@
           .col-6.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img24.png', alt='Imágen decorativa')
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     separador
@@ -199,7 +187,7 @@
 
         .tarjeta.tarjeta-naranja2.p-3(x="51%" y="62%" numero="+")
           p <b>Evitar comportamientos que puedan penalizarlos</b>
-          p Copiar contenido, realizar intercambio de enlaces, comentarios masivos en <i>blogs</i>, enlaces en sitios de temáticas totalmente diferentes, son comportamientos detectados por los buscadores y que pueden hacer que descienda la visibilidad.
+          p Copiar contenido, realizar intercambio de enlaces, comentarios masivos en blogs, enlaces en sitios de temáticas totalmente diferentes, son comportamientos detectados por los buscadores y que pueden hacer que descienda la visibilidad.
 
         .tarjeta.tarjeta-naranja2.p-3(x="64%" y="40%" numero="+")
           p <b>Medición de resultados</b>
@@ -234,7 +222,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
-        p(data-aos="fade-right") Las campañas SEM (<i>Search Engine Marketing</i> o también denominado <i>Marketing</i> en buscadores) son una forma rápida, económica y eficaz de hacer publicidad, conseguir clientes potenciales y generar ventas. Esta técnica es muy usada debido a que ofrece resultados inmediatos y la página de la empresa que se quiere posicionar aparecerá en los buscadores de un día para otro, obteniendo visitas rápidamente. Quienes utilizan el sistema SEM de publicidad, pueden medir con gran exactitud el retorno de su inversión debido a la gran cantidad de estadísticas disponibles para tal efecto. Además, permite una potente configuración de las campañas mediante una segmentación por múltiples criterios.
+        p(data-aos="fade-right") Las campañas SEM (Search Engine Marketing o también denominado <i>marketing</i> en buscadores) son una forma rápida, económica y eficaz de hacer publicidad, conseguir clientes potenciales y generar ventas. Esta técnica es muy usada debido a que ofrece resultados inmediatos y la página de la empresa que se quiere posicionar aparecerá en los buscadores de un día para otro, obteniendo visitas rápidamente. Quienes utilizan el sistema SEM de publicidad, pueden medir con gran exactitud el retorno de su inversión debido a la gran cantidad de estadísticas disponibles para tal efecto. Además, permite una potente configuración de las campañas mediante una segmentación por múltiples criterios.
 
         p(data-aos="fade-right") A continuación se profundiza sobre los conceptos básicos para la creación de una estrategia SEM, esto es:
 
@@ -263,7 +251,7 @@
               p.mb-0 #[b Impresiones:] número de veces que se ha mostrado un anuncio.
             li 
               i.fas.fa-check
-              p.mb-0 #[b clics:] número de veces que se ha hecho clic en un anuncio.
+              p.mb-0 #[b Clics:] número de veces que se ha hecho clic en un anuncio.
             li 
               i.fas.fa-check
               p.mb-0 #[b Nivel de calidad:] puntuación otorgada por Google de una palabra clave y de un anuncio y que determinan su costo.
@@ -295,7 +283,7 @@
           p Colocarse en los primeros puestos de Google es una manera fantástica de conseguir visibilidad para una marca. El hecho de que un usuario no haga clic sobre su anuncio, no significa que no lo haya visto.
 
         .row.p-4(titulo="Generar conversiones")
-          p Una conversión tiene lugar cuando un usuario que accede a su página consigue el objetivo pretendido, que puede ser desde un registro como usuario, la cumplimentación de un formulario, la solicitud de información, una venta, entre otras. En buscadores como Google, la herramienta para creación de campañas <i>Google Ads</i>, ofrece todo tipo de ayuda para poder medir las conversiones y así asegurar que los anuncios sean realmente efectivos.
+          p Una conversión tiene lugar cuando un usuario que accede a su página consigue el objetivo pretendido, que puede ser desde un registro como usuario, la cumplimentación de un formulario, la solicitud de información, una venta, entre otras. En buscadores como Google, la herramienta para creación de campañas Google Ads, ofrece todo tipo de ayuda para poder medir las conversiones y así asegurar que los anuncios sean realmente efectivos.
 
         .row.p-4(titulo="Grandes resultados con presupuestos pequeños")
           p No es necesaria una gran inversión inicial, esto lo hace muy accesible para pequeñas empresas que pueden competir en igualdad con grandes empresas que disponen de amplias partidas presupuestarias para las acciones de <i>marketing</i>. Se puede decir entonces que la publicidad a través de motores de búsqueda posibilita la obtención de grandes resultados con pequeños presupuestos
@@ -324,7 +312,7 @@
               p.mb-0 Otras.
 
         .row.p-4(titulo="Resultados altamente medibles")
-          p Las herramientas como Google <i>Ads</i> le proporcionan informes altamente detallados de la evolución de una campaña, de manera que es posible saber en todo momento qué ocurre con los anuncios. En el caso del buscador Google, su herramienta de creación y seguimiento de campañas SEM, Google <i>Ads</i>, está conectada a otra denominada Google <i>Analytics</i> que permite monitorizar las visitas a las diferentes páginas o sitios web.
+          p Las herramientas como Google Ads le proporcionan informes altamente detallados de la evolución de una campaña, de manera que es posible saber en todo momento qué ocurre con los anuncios. En el caso del buscador Google, su herramienta de creación y seguimiento de campañas SEM, Google Ads, está conectada a otra denominada Google Analytics que permite monitorizar las visitas a las diferentes páginas o sitios web.
 
         .row.p-4(titulo="Monitorización en tiempo real")
           p Es lo que permite realizar un seguimiento continuo y actualizado de una campaña, gracias a lo cual se pueden realizar modificaciones sobre la marcha en algunos parámetros.
@@ -348,7 +336,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 2.2 Técnicas de masificación de información
 
-    p(data-aos="fade-left") El objetivo de toda empresa en la era actual es masificar su marca, producto o servicio. Gracias a las herramientas del <i>marketing</i> Digital esta labor puede ser un poco más fácil debido al alcance y penetración en la audiencia. La cantidad de “Me Gusta” o “Me Encanta” en la <i>FanPage</i> de <i>Facebook</i> o los suscriptores en <i>Twitter</i> o los seguidores en <i>Instagram</i> cobran importancia porque indica la aceptación de la empresa u oferta que es presentada.
+    p(data-aos="fade-left") El objetivo de toda empresa en la era actual es masificar su marca, producto o servicio. Gracias a las herramientas del <i>marketing</i> Digital esta labor puede ser un poco más fácil debido al alcance y penetración en la audiencia. La cantidad de “Me Gusta” o “Me Encanta” en la <i>fanpage</i> de Facebook o los suscriptores en Twitter o los seguidores en Instagram cobran importancia porque indica la aceptación de la empresa u oferta que es presentada.
 
     p.mb-5(data-aos="fade-left") A continuación, se presentan algunas de las plataformas más populares que ayudan a las empresas a masificarse, conseguir clientes y por consiguiente aumentar sus ventas:
 
@@ -357,9 +345,9 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
-            h4.mt-5 <i>WhatsApp</i> + <i>Facebook</i> + <i>Instagram</i>
+            h4.mt-5 WhatsApp + Facebook + Instagram
 
-            p Estas tres plataformas son fundamentales al momento de crear cualquier campaña publicitaria. Con la adquisición de <i>Instagram</i> y <i>WhatsApp</i> por medio del dueño y creador de <i>Facebook</i>, se han ido actualizando diversas funciones que hacen que esta sea la plataforma más apetecida por los empresarios.
+            p Estas tres plataformas son fundamentales al momento de crear cualquier campaña publicitaria. Con la adquisición de Instagram y WhatsApp por medio del dueño y creador de Facebook, se han ido actualizando diversas funciones que hacen que esta sea la plataforma más apetecida por los empresarios.
 
           .col-md-6
             figure
@@ -368,7 +356,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
 
-            p.mt-5 Al crear un <i>FanPage</i> en <i>Facebook</i>, le da la opción de integrar un botón de llamado a la acción y este puede configurarse para que con tan sólo un clic lo lleve a la App de <i>WhatsApp</i> y generar una conversación más personalizada empresario-cliente.
+            p.mt-5 Al crear un <i>fanpage</i> en Facebook, le da la opción de integrar un botón de llamado a la acción y este puede configurarse para que con tan sólo un clic lo lleve a la App de WhatsApp y generar una conversación más personalizada empresario-cliente.
 
           .col-md-6
             figure
@@ -377,7 +365,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
 
-            p.mt-5 Ahora bien, desde la configuración de la <i>fanpage</i>, se puede integrar con el perfil de <i>Instagram</i>, creando una plataforma omnicanal para mejor experiencia y comunicación del cliente; este aspecto es fundamental, debido a que el usuario tendrá disponible tres canales de comunicación a tan solo un clic (<i>Messenger</i>, <i>WhatsApp</i> y <i>Direct</i>).
+            p.mt-5 Ahora bien, desde la configuración de la <i>fanpage</i>, se puede integrar con el perfil de Instagram, creando una plataforma omnicanal para mejor experiencia y comunicación del cliente; este aspecto es fundamental, debido a que el usuario tendrá disponible tres canales de comunicación a tan solo un clic (Messenger, WhatsAppy Direct).
 
           .col-md-6
             figure
@@ -385,7 +373,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4.mt-5 <i>TikTok</i>
+            h4.mt-5 TikTok
 
             p Es una red social propiedad de la empresa #[b ByteDance] (China). Es la red social por excelencia para generar y compartir videos cortos, que, durante esa cantidad minúscula de segundos, dan un mensaje concreto de lo que se quiere ofrecer o comunicar.
 
@@ -415,7 +403,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4.mt-5 <i>Twitter</i>
+            h4.mt-5 Twitter
 
             p Es un servicio de micro blogueo originario de Estados Unidos, la red permite enviar mensajes de texto plano de corta longitud (máximo de 280 caracteres) llamados <i>tweets</i>, que se visualizan en la página principal del usuario y que sus suscriptores pueden ver. Esta plataforma es muy usada por empresas de servicios de información como noticieros, revistas, editoriales, etc.
 
@@ -430,19 +418,19 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
         TabsA.color-acento-contenido.mb-4
-          .tarjeta.tarjeta-rosa.p-4(titulo="Gestión de la marca")
-            p Esta es la técnica más común que los "expertos" prometen hacer. Incluye la creación y el mantenimiento de un blog y una cuenta de <i>Twitter</i>, la captación de personas interesadas, compartir cosas valiosas de tu sector y, con el tiempo, conseguir seguidores, visitantes y confianza. Incluso puede implicar el mantenimiento de una página de fans en <i>Facebook</i> (no es eficaz si NO tiene ya una marca fuerte establecida) o un grupo de <i>LinkedIn</i>.
+          .tarjeta.tarjeta-rosa2.p-4(titulo="Gestión de la marca")
+            p Esta es la técnica más común que los "expertos" prometen hacer. Incluye la creación y el mantenimiento de un blog y una cuenta de Twitter, la captación de personas interesadas, compartir cosas valiosas de tu sector y, con el tiempo, conseguir seguidores, visitantes y confianza. Incluso puede implicar el mantenimiento de una página de fans en Facebook (no es eficaz si NO tiene ya una marca fuerte establecida) o un grupo de LinkedIn.
 
-          .tarjeta.tarjeta-rosa.p-4(titulo="Orientación")
-            p La segmentación en redes sociales consiste en encontrar a personas en las plataformas de redes sociales una por una y hacerlas partícipes de sus servicios. Esto incluye encontrar y tuitear a personas en <i>Twitter</i> basándose en su descripción o en <i>tweets</i> con palabras clave, contactar con alguien directamente en <i>LinkedIn</i> para una venta B2B o comentar un <i>post</i> de un bloguero.
+          .tarjeta.tarjeta-rosa2.p-4(titulo="Orientación")
+            p La segmentación en redes sociales consiste en encontrar a personas en las plataformas de redes sociales una por una y hacerlas partícipes de sus servicios. Esto incluye encontrar y tuitear a personas en Twitter basándose en su descripción o en <i>tweets</i> con palabras clave, contactar con alguien directamente en LinkedIn para una venta B2B o comentar un <i>post</i> de un bloguero.
 
-          .tarjeta.tarjeta-rosa.p-4(titulo="Gamificación <br>del <i>marketing</i>")
+          .tarjeta.tarjeta-rosa2.p-4(titulo="Gamificación <br>del <i>marketing</i>")
             p Es cuando usted crea su propio contenido viral que generalmente promueve indirectamente su marca o servicios. Esto incluye la creación de un vídeo viral, la organización de un concurso o la creación de un sitio novedoso para llamar la atención de la gente. Algunos ejemplos, respetablemente, son las marcas registradas como Movistar, Nutresa, Almacenes Éxito, entre otros.
 
-          .tarjeta.tarjeta-rosa.p-4(titulo="Promoción de los <br>marcadores sociales")
-            p Los sitios de marcadores sociales son servicios en los que la gente comparte recursos a través de una URL de referencia en lugar del propio contenido. Estos sitios incluyen <i>Digg</i>, <i>Mixx</i>, <i>Delicious</i> y docenas más. El objetivo de esta técnica es aparecer en la primera página o estar en los primeros puestos de estos sitios, conduciendo toneladas y toneladas de tráfico a su sitio web.
+          .tarjeta.tarjeta-rosa2.p-4(titulo="Promoción de los <br>marcadores sociales")
+            p Los sitios de marcadores sociales son servicios en los que la gente comparte recursos a través de una URL de referencia en lugar del propio contenido. Estos sitios incluyen Digg, Mixx, Delicious y docenas más. El objetivo de esta técnica es aparecer en la primera página o estar en los primeros puestos de estos sitios, conduciendo toneladas y toneladas de tráfico a su sitio web.
 
-          .tarjeta.tarjeta-rosa.p-4(titulo="Campaña de <br>influenciadores")
+          .tarjeta.tarjeta-rosa2.p-4(titulo="Campaña de <br>influenciadores")
             p Se trata de contar con personas influyentes que son blogueros populares, tuiteros, creadores de vídeos, etc., para que promocionen sus productos y servicios. Esta es probablemente la forma más efectiva y poderosa de hacer <i>marketing</i> en las redes sociales. El mayor problema es que se necesita mucho tiempo para crear esa confianza con el público en línea, desde meses hasta años. En una campaña de influenciadores, se aprovecha el compromiso y la confianza que otros han construido durante meses y años.
 
       .col-8.col-lg-3
@@ -454,9 +442,9 @@
        h2 2.3 Técnicas de optimización de contenidos y relevancia de datos
 
     .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-left") La optimización de las redes sociales es una forma eficaz de conseguir y mantenerse por delante de la competencia en los canales de las redes sociales como <i>Twitter</i>, <i>LinkedIn</i>, <i>Facebook</i>, YouTube, entre otros.
+      p(data-aos="fade-left") La optimización de las redes sociales es una forma eficaz de conseguir y mantenerse por delante de la competencia en los canales de las redes sociales como Twitter, LinkedIn, Facebook, YouTube, entre otros.
 
-      p(data-aos="fade-right") La optimización de los medios sociales puede definirse como un proceso de acceso a nuevos clientes mediante el descubrimiento de los canales de medios sociales predominantes; existen varias técnicas y estrategias, como los canales RSS, los sitios web de medios sociales, los <i>blogs</i> y los videos, y los sitios web de noticias sociales.
+      p(data-aos="fade-right") La optimización de los medios sociales puede definirse como un proceso de acceso a nuevos clientes mediante el descubrimiento de los canales de medios sociales predominantes; existen varias técnicas y estrategias, como los canales RSS, los sitios web de medios sociales, los blogs y los videos, y los sitios web de noticias sociales.
 
       p(data-aos="fade-left") A continuación, se presenta los beneficios de la implementación de técnicas de optimización, que son los siguientes:
 
@@ -481,16 +469,16 @@
           p También aumenta los canales de comunicación con diferentes personas, que pueden ayudarle a promover su sitio web o podrían ser sus clientes directos para los sitios sociales. Los clientes pueden ponerse en contacto con usted en cualquier momento con preguntas, siempre y cuando usted se esfuerce por responder a esas preguntas en un plazo determinado. 
 
         .row.p-4(titulo="Aumentar la credibilidad")
-          p La optimización de las redes sociales significa que una persona real mantiene los perfiles y publica artículos, <i>blogs</i> e información sobre productos y servicios. Esto construye e impulsa la credibilidad también activamente ejecutar y participar en la plataforma de medios sociales.
+          p La optimización de las redes sociales significa que una persona real mantiene los perfiles y publica artículos, blogs e información sobre productos y servicios. Esto construye e impulsa la credibilidad también activamente ejecutar y participar en la plataforma de medios sociales.
 
         .row.p-4(titulo="Tráfico para los sitios web")
-          p La optimización de los medios sociales le ayuda a generar tráfico relevante para su sitio web sin ningún gasto. La optimización de los medios sociales ayuda a llegar a un público más amplio y que responde mucho mejor y los visitantes podrán llegar a usted también. Publicar y compartir contenidos en las redes sociales, foros y <i>blogs</i> ayuda a generar un gran tráfico. Le ayuda a conseguir más tráfico a su sitio web con una publicación atractiva en diferentes canales de medios sociales.
+          p La optimización de los medios sociales le ayuda a generar tráfico relevante para su sitio web sin ningún gasto. La optimización de los medios sociales ayuda a llegar a un público más amplio y que responde mucho mejor y los visitantes podrán llegar a usted también. Publicar y compartir contenidos en las redes sociales, foros y blogs ayuda a generar un gran tráfico. Le ayuda a conseguir más tráfico a su sitio web con una publicación atractiva en diferentes canales de medios sociales.
 
         .row.p-4(titulo="Fidelización de clientes")
-          p La optimización de los medios sociales le ayuda a generar tráfico relevante para su sitio web sin ningún gasto. La optimización de los medios sociales ayuda a llegar a un público más amplio y que responde mucho mejor y los visitantes podrán llegar a usted también. Publicar y compartir contenidos en las redes sociales, foros y <i>blogs</i> ayuda a generar un gran tráfico. Le ayuda a conseguir más tráfico a su sitio web con una publicación atractiva en diferentes canales de medios sociales.
+          p La optimización de los medios sociales le ayuda a generar tráfico relevante para su sitio web sin ningún gasto. La optimización de los medios sociales ayuda a llegar a un público más amplio y que responde mucho mejor y los visitantes podrán llegar a usted también. Publicar y compartir contenidos en las redes sociales, foros y blogs ayuda a generar un gran tráfico. Le ayuda a conseguir más tráfico a su sitio web con una publicación atractiva en diferentes canales de medios sociales.
 
         .row.p-4(titulo="Aumentar la visibilidad social")
-          p Los medios sociales son una gran herramienta para establecer una relación con su público sin comprometer sus preferencias. Los contenidos compartidos, <i>blogs</i>, <i>posts</i>, etc. hacen que la gente conozca su marca y su sitio web. Los medios sociales permiten escribir información sobre el negocio con un enlace al sitio web, lo que ayuda a generar más clientes potenciales y a obtener una ventaja sobre los competidores. 
+          p Los medios sociales son una gran herramienta para establecer una relación con su público sin comprometer sus preferencias. Los contenidos compartidos, blogs, <i>posts</i>, etc. hacen que la gente conozca su marca y su sitio web. Los medios sociales permiten escribir información sobre el negocio con un enlace al sitio web, lo que ayuda a generar más clientes potenciales y a obtener una ventaja sobre los competidores. 
 
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")

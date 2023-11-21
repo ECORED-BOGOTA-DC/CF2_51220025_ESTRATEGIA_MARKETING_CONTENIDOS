@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 <i>Big Data</i>
+      h1 <i>Big data</i>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-3
@@ -15,9 +15,9 @@
       .col-lg-9
         p(data-aos="fade-left") Una de las grandes herramientas que apoya la analítica de datos son los diferentes <i>software</i> especializados o herramientas ofimáticas que se encuentran en el mercado. Los datos que generalmente se procesan son semiestructurados o estructurados y tienen diferentes orígenes, estos son muy usados en las industrias, pues la información obtenida es la base para tomar decisiones, lo cual puede generar beneficios en el incremento de ingresos, establecer mejoras en los procesos y maximizar campañas publicitarias; sin embargo, el principal objetivo de la analítica de datos es dar impulso al rendimiento o beneficio empresarial.
 
-        p(data-aos="fade-left") El análisis de datos o también conocido como <i>Big Data</i>, es aplicado a los análisis cualitativos; es decir, se realiza el análisis de datos numéricos, los cuales tienen variables que pueden ser cuantificables, así como compararse y medirse a través de la estadística; es de anotar que el análisis cualitativo es de carácter interpretativo, a través de interpretaciones de los estadísticos, con base en la comprensión que se haga de los datos que no son numéricos. Como beneficio del <i>Big Data</i> se puede mencionar, que permite obtener respuestas más completas, porque se dispone de más información que implica una mayor confianza en los datos, lo que supone un enfoque completamente diferente a la hora de abordar los problemas.
+        p(data-aos="fade-left") El análisis de datos o también conocido como <i>big data</i>, es aplicado a los análisis cualitativos; es decir, se realiza el análisis de datos numéricos, los cuales tienen variables que pueden ser cuantificables, así como compararse y medirse a través de la estadística; es de anotar que el análisis cualitativo es de carácter interpretativo, a través de interpretaciones de los estadísticos, con base en la comprensión que se haga de los datos que no son numéricos. Como beneficio del <i>big data</i> se puede mencionar, que permite obtener respuestas más completas, porque se dispone de más información que implica una mayor confianza en los datos, lo que supone un enfoque completamente diferente a la hora de abordar los problemas.
 
-        p(data-aos="fade-left") Los <i>Big Data</i> pueden ayudar a abordar una serie de actividades empresariales, desde la experiencia del cliente hasta la analítica.
+        p(data-aos="fade-left") Los <i>big data</i> pueden ayudar a abordar una serie de actividades empresariales, desde la experiencia del cliente hasta la analítica.
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta-rosa.p-5(data-aos="flip-up")
@@ -29,9 +29,9 @@
           .col-lg-1
           .col-lg-8
             .titulo-segundo.color-acento-contenido
-              h2 Casos de uso de <i>Big Data</i>
+              h2 Casos de uso de <i>big data</i>
 
-            p.mb-5 Para ampliar la información sobre la importancia del <i>Big Data</i>, descargue el siguiente documento.
+            p.mb-5 Para ampliar la información sobre la importancia del <i>big data</i>, descargue el siguiente documento.
 
             .col-sm-auto
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/casos_de_uso_de_big_data.pdf')" target="_blank")
@@ -42,7 +42,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 1.1 <i>Open source</i>
 
-    p.mb-5(data-aos="fade-left") La definición de #[b #[i Open source]] (en español #[b #[i código abierto]]), es un código fuente que se pone a disposición del público y que todos pueden ver para su posible modificación y distribución. Para conocer más acerca de este código abierto, se invita a revisar la siguiente información:
+    p.mb-5(data-aos="fade-left") La definición de #[b #[i Open source]] (en español #[b código abierto]), es un código fuente que se pone a disposición del público y que todos pueden ver para su posible modificación y distribución. Para conocer más acerca de este código abierto, se invita a revisar la siguiente información:
 
     .row.justify-content-center.align-items-center.mb-5
       figure(data-aos="flip-left")
@@ -51,7 +51,7 @@
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-       h2 1.2 Herramientas de gestión y métodos de normalización de data
+       h2 1.2 Herramientas de gestión y métodos de normalización de <i>data</i>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
@@ -133,7 +133,7 @@
             p <b style= 'color:#232997;'>¿Por qué es tan importante lo que se ve?</b>
             p Porque cuanto más tiempo esté participando, más tiempo pasa en una plataforma y cuando esto sucede, es susceptible de ver (y comprar) la publicidad que se te muestra. Cuanto más tiempo pasa participando en una plataforma de medios sociales, más información tendrá esa plataforma sobre sus preferencias, compras y hábitos.
 
-    p.mb-5(data-aos="fade-left") Continuando con este importante aprendizaje, ahora se profundizará en los detalles de cómo funcionan los algoritmos de <i>Facebook</i>, <i>Twitter</i> e <i>Instagram</i>, se puede ver:
+    p.mb-5(data-aos="fade-left") Continuando con este importante aprendizaje, ahora se profundizará en los detalles de cómo funcionan los algoritmos de Facebook, Twitter e Instagram, se puede ver:
 
     .row.justify-content-center.align-items-center.mb-5
       SlyderF(columnas="col-lg-6")
@@ -142,20 +142,20 @@
             .col-4.col-lg-3
               img(src='@/assets/curso/temas/tema1/img10.svg', alt='Imágen decorativa')
           
-            p.mt-3 #[b #[i Facebook:]] el algoritmo de la sección de noticias tiene en cuenta cientos de variables y puede predecir si un usuario determinado dará "Me gusta", comentará, compartirá, entre otras. Esta predicción se cuantifica en un único número llamado "puntuación de relevancia" que es específico tanto para usted como para esa publicación, una vez este se les asigna a todas las publicaciones que podrían aparecer en su feed, el algoritmo las clasifica y las coloca en el orden en que acaban apareciendo en su feed. Esto significa que, la publicación que ve en la parte superior ha sido elegida entre miles como la que probablemente le hará reaccionar y participar más.
+            p.mt-3 #[b Facebook:] el algoritmo de la sección de noticias tiene en cuenta cientos de variables y puede predecir si un usuario determinado dará "Me gusta", comentará, compartirá, entre otras. Esta predicción se cuantifica en un único número llamado "puntuación de relevancia" que es específico tanto para usted como para esa publicación, una vez este se les asigna a todas las publicaciones que podrían aparecer en su <i>feed</i>, el algoritmo las clasifica y las coloca en el orden en que acaban apareciendo en su <i>feed</i>. Esto significa que, la publicación que ve en la parte superior ha sido elegida entre miles como la que probablemente le hará reaccionar y participar más.
 
         .tarjeta.tarjeta-rosa.p-5
           .row.mb-3
             .col-4.col-lg-3
               img(src='@/assets/curso/temas/tema1/img11.svg', alt='Imágen decorativa')
             
-            p.mt-3 #[b #[i Twitter:]] ha adoptado históricamente un enfoque muy diferente con lo que llama "<i>Timeline</i>". Este es el flujo de <i>tweets</i> de los usuarios que sigue que aparece en la página de inicio de su cuenta cuando usted se conecta por primera vez. Solía estar compuesto por todos los <i>tweets</i> de todos los usuarios que seguía en orden cronológico, pero se descubrió que los usuarios sentían que se perdían los mejores <i>tweets</i> de las personas que más les importaban.
+            p.mt-3 #[b Twitter:] ha adoptado históricamente un enfoque muy diferente con lo que llama "<i>Timeline</i>". Este es el flujo de <i>tweets</i> de los usuarios que sigue que aparece en la página de inicio de su cuenta cuando usted se conecta por primera vez. Solía estar compuesto por todos los <i>tweets</i> de todos los usuarios que seguía en orden cronológico, pero se descubrió que los usuarios sentían que se perdían los mejores <i>tweets</i> de las personas que más les importaban.
 
         .tarjeta.tarjeta-rosa.p-5
           .row.mb-3
             .col-4.col-lg-3
               img(src='@/assets/curso/temas/tema1/img12.svg', alt='Imágen decorativa')
-            p.mt-3 #[b #[i Instagram:]] cuenta con más de 1,2 millones de usuarios activos en la plataforma, es la plataforma más nueva en comparación con las otras dos de esta lista, es el mejor lugar para empezar  desde abajo con el algoritmo que ha evolucionado ampliamente, cuando comenzó a clasificar las noticias de los usuarios por orden de relevancia en lugar de por la frecuencia. Ahora, el algoritmo funciona de forma similar al de su empresa matriz.
+            p.mt-3 #[b Instagram:] cuenta con más de 1,2 millones de usuarios activos en la plataforma, es la plataforma más nueva en comparación con las otras dos de esta lista, es el mejor lugar para empezar  desde abajo con el algoritmo que ha evolucionado ampliamente, cuando comenzó a clasificar las noticias de los usuarios por orden de relevancia en lugar de por la frecuencia. Ahora, el algoritmo funciona de forma similar al de su empresa matriz.
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")

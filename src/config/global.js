@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: '<i>Big Data</i>',
+        titulo: '<i>Big data</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -47,7 +47,7 @@ export default {
           {
             numero: '1.2',
             titulo:
-              'Herramientas de gestión y métodos de normalización de data',
+              'Herramientas de gestión y métodos de normalización de <i>data</i>',
             hash: 't_1_2',
           },
           {
@@ -180,7 +180,7 @@ export default {
     {
       tema: '2.1 Factores y métodos posicionamiento SEO y SEM',
       referencia:
-        'Cyberclick • Marketing Digital. (2019). <i>SEM y Google Ads - ¿Cómo funciona?</i>',
+        'Cyberclick • Marketing Digital. (2019). <i>SEM y Google Ads - ¿Cómo funciona?</i> [Video]. YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=vVWyGjTsdxw&ab_channel=Cyberclick%E2%80%A2MarketingDigital',
@@ -228,7 +228,7 @@ export default {
     {
       termino: 'Feed RSS',
       significado:
-        'son las siglas en inglés de <i>Really Simple Syndication</i>, y en español se conoce como distribución realmente sencilla. Se trata de una manera sencilla de mantenerse al tanto de las noticias y la información de su interés, y no necesita de métodos convencionales para explorar y buscar información en los sitios web.<br>Recurso para la distribución de contenidos en tiempo real basado en el lenguaje XML.',
+        'son las siglas en inglés de Really Simple Syndication, y en español se conoce como distribución realmente sencilla. Se trata de una manera sencilla de mantenerse al tanto de las noticias y la información de su interés, y no necesita de métodos convencionales para explorar y buscar información en los sitios web.<br>Recurso para la distribución de contenidos en tiempo real basado en el lenguaje XML.',
     },
     {
       termino: 'Mixxx',
@@ -287,7 +287,7 @@ export default {
           nombre: 'Margarita Rosa Triana Sánchez',
           cargo: 'Experta Temática',
           centro:
-            'Región Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
         },
         {
           nombre: 'Nelly Parra Guarín',

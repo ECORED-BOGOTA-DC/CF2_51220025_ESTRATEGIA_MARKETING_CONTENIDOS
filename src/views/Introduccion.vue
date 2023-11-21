@@ -16,7 +16,7 @@
             img(src='@/assets/curso/temas/introduccion/img1.svg', alt='Imágen decorativa')
 
         .col-md-10.col-lg-11
-          p(data-aos="fade-left") Estimado aprendiz, bienvenido a este momento de aprendizaje, donde se abordarán diferentes herramientas y técnicas para el posicionamiento de la imagen en las redes sociales, además de reconocer los conceptos de manejo, Big Data, evaluación de contenido y gestión de contenidos, lo que permitirá lograr los objetivos de optimizar la imagen en redes sociales acorde con las variables del mercado. Antes de empezar se invita a revisar el siguiente video para identificar el contexto de aprendizaje:
+          p(data-aos="fade-left") Estimado aprendiz, bienvenido a este momento de aprendizaje, donde se abordarán diferentes herramientas y técnicas para el posicionamiento de la imagen en las redes sociales, además de reconocer los conceptos de manejo, <i>big data</i>, evaluación de contenido y gestión de contenidos, lo que permitirá lograr los objetivos de optimizar la imagen en redes sociales acorde con las variables del mercado. Antes de empezar se invita a revisar el siguiente video para identificar el contexto de aprendizaje:
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
         figure
