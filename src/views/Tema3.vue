@@ -26,7 +26,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img2.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.my-5.text-center blog
+              h5.my-5.text-center Blog
               p.my-5.text-center Es un sitio web personal donde se publica cualquier tema que se desee compartir, este se actualiza de manera periódica y recopila textos y artículos cronológicamente de uno o varios autores.
 
       .col-lg-5.col-md-8.mb-4
