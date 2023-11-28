@@ -370,8 +370,9 @@ export default {
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Leyson Fabian Castaño Pérez',
-          cargo: 'Validación de recursos educativos digitales',
+          nombre: 'Leyson Fabián Castaño Pérez',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación LMS',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
