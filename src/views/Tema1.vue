@@ -34,7 +34,7 @@
             p.mb-5 Para ampliar la información sobre la importancia del <i>big data</i>, descargue el siguiente documento.
 
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Casos_de_uso_de_big_data.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/casos_de_uso_de_big_data.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
