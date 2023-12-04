@@ -15,7 +15,7 @@
       .col-lg-9
         p(data-aos="fade-left") Una de las grandes herramientas que apoya la analítica de datos son los diferentes <i>software</i> especializados o herramientas ofimáticas que se encuentran en el mercado. Los datos que generalmente se procesan son semiestructurados o estructurados y tienen diferentes orígenes, estos son muy usados en las industrias, pues la información obtenida es la base para tomar decisiones, lo cual puede generar beneficios en el incremento de ingresos, establecer mejoras en los procesos y maximizar campañas publicitarias; sin embargo, el principal objetivo de la analítica de datos es dar impulso al rendimiento o beneficio empresarial.
 
-        p(data-aos="fade-left") El análisis de datos o también conocido como <i>big data</i>, es aplicado a los análisis cualitativos; es decir, se realiza el análisis de datos numéricos, los cuales tienen variables que pueden ser cuantificables, así como compararse y medirse a través de la estadística; es de anotar que el análisis cualitativo es de carácter interpretativo, a través de interpretaciones de los estadísticos, con base en la comprensión que se haga de los datos que no son numéricos. Como beneficio del <i>big data</i> se puede mencionar, que permite obtener respuestas más completas, porque se dispone de más información que implica una mayor confianza en los datos, lo que supone un enfoque completamente diferente a la hora de abordar los problemas.
+        p(data-aos="fade-left") El análisis de datos, o también conocido como <i>big data</i>, es aplicado a los análisis cualitativos; es decir, se realiza el análisis de datos numéricos, los cuales tienen variables que pueden ser cuantificables, así como compararse y medirse a través de la estadística; es de anotar que el análisis cualitativo es de carácter interpretativo, a través de interpretaciones de los estadísticos, con base en la comprensión que se haga de los datos que no son numéricos. Como beneficio del <i>big data</i> se puede mencionar, que permite obtener respuestas más completas, porque se dispone de más información que implica una mayor confianza en los datos, lo que supone un enfoque completamente diferente a la hora de abordar los problemas.
 
         p(data-aos="fade-left") Los <i>big data</i> pueden ayudar a abordar una serie de actividades empresariales, desde la experiencia del cliente hasta la analítica.
 
@@ -34,7 +34,7 @@
             p.mb-5 Para ampliar la información sobre la importancia del <i>big data</i>, descargue el siguiente documento.
 
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/casos_de_uso_de_big_data.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexos/Casos_de_uso_de_big_data.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
