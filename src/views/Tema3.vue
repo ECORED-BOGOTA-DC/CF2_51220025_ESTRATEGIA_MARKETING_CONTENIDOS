@@ -55,7 +55,7 @@
       .col-lg-8
         p(data-aos="fade-left") A menudo el llamado <i>marketing</i> de contenidos o carta editorial, está estrechamente vinculada a la referenciación natural, ella planifica las acciones que sirven para aumentar sus posiciones en los motores de búsqueda como Google sin invertir un presupuesto colosal en una campaña de AdWords. Para construir la estrategia editorial, se debe definir en primer lugar el objetivo de la estrategia, es decir, por qué escribe y sobre qué tema, a quién se dirige, cuándo decide hacerlo y dónde.
 
-        p(data-aos="fade-left") La línea editorial son todas las reglas que le permiten garantizar la armonía entre los diferentes contenidos que publica, defina sus objetivos, su tono, sus canales de distribución y oriente la selección de los temas a tratar en función de los intereses de su público objetivo. Al igual que una carta gráfica la línea editorial ayuda a guiar al escritor en la creación de contenidos.
+        p(data-aos="fade-left") La línea editorial son todas las reglas que le permiten garantizar la armonía entre los diferentes contenidos que publica, defina sus objetivos, su tono, sus canales de distribución y oriente la selección de los temas a tratar en función de los intereses de su público objetivo. Al igual que una carta gráfica, la línea editorial ayuda a guiar al escritor en la creación de contenidos.
 
         p(data-aos="fade-left") Al tener la línea editorial, esta refleja el sector y la marca. Por ejemplo, una empresa especializada en muebles para el hogar debería publicar en su blog y redes sociales talleres de bricolaje, consejos de decoración o nuevas tendencias en muebles, entre otras cosas.
 
@@ -170,7 +170,7 @@
 
             p <b style= 'color:#6936C1;'>Pregúntese:</b> ¿Qué plataformas se ajustan mejor a los objetivos de su negocio?
 
-            p Por ejemplo, si uno de sus objetivos es dar a conocer un nuevo producto o servicio que podría beneficiarse de los videotutoriales, debería centrarse en plataformas solo de vídeo (como YouTube y Vimeo) o en formatos de vídeo disponibles en los sitios en los que ya está activo (como Instagram Stories y Reels, Facebook Live, etc.).
+            p Por ejemplo, si uno de sus objetivos es dar a conocer un nuevo producto o servicio que podría beneficiarse de los videotutoriales, debería centrarse en plataformas solo de vídeo (como YouTube y Vimeo) o en formatos de vídeo disponibles en los sitios en los que ya está activo (como Instagram <i>Stories</i> y <i>Reels</i>, Facebook <i>Live</i>, etc.).
 
             p Sin importar cuáles sean sus necesidades y objetivos, es seguro que encontrará una forma de utilizar las redes sociales en beneficio de su negocio siempre realizando planes de mejora y actualización de las plataformas
 

@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
           h2 Optimización de imagen en redes sociales
-        p.mb-4 Identificar términos relacionados con optimización de imagen en redes sociales logrando la adecuada gestión de contenidos y con ello posicionar la marca.
+        p.mb-4 Identificar términos relacionados con optimización de imagen en redes sociales, logrando la adecuada gestión de contenidos y con ello posicionar la marca.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

@@ -269,12 +269,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
@@ -314,7 +314,7 @@ export default {
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Corrector de estilo ',
+          cargo: 'Corrector de Estilo ',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
@@ -324,7 +324,7 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseño web',
+          cargo: 'Diseño Web',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
@@ -336,19 +336,19 @@ export default {
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animación y Producción audiovisual',
+          cargo: 'Animación y Producción Audiovisual',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
-          cargo: 'Animación y Producción audiovisual',
+          cargo: 'Animación y Producción Audiovisual',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
-          cargo: 'Animación y Producción audiovisual',
+          cargo: 'Animación y Producción Audiovisual',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
@@ -359,20 +359,20 @@ export default {
       autores: [
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          cargo: 'Evaluación de Contenidos Inclusivos y Accesibles',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo: 'Validación de Recursos Educativos Digitales',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
           cargo:
-            'Validación de recursos educativos digitales y vinculación LMS',
+            'Validación de Recursos Educativos Digitales y Vinculación LMS',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },

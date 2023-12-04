@@ -36,17 +36,17 @@
 
     .row.justify-content-center.align-items-center.mb-5
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordion2")
-        .row.p-4(titulo="Identificar la audiencia de cada plataforma")
+        .row.justify-content-center.p-4(titulo="Identificar la audiencia de cada plataforma")
           .col-lg-8
             p Son valiosas para construir conexiones con la audiencia, pero ¿Cuáles son las mejores para alcanzar los objetivos? Para saber esto es importante conocer a fondo las redes sociales y lo que cada una de ellas ofrece, en otras palabras “su razón de ser”. Es por ello que las personas interactúan de manera diferente en cada una de ellas, así como esperan encontrar un contenido específico en la red en la que están navegando.
 
-            p Por ejemplo: las conversaciones que se desarrollan en Linkenid son bastantes diferentes a las que se tienen en TikTok o en Twitter, es por esto que se hace necesario conocer quién es la audiencia a la que está dirigido el contenido, a cuál red social está dirigido y de esta manera optimizar los resultados que se están buscando. Es por ello que, se debe diseñar un mensaje que se ajuste a las especificaciones de la plataforma y las expectativas del público que pasa tiempo en cada una de ellas.
+            p Por ejemplo: las conversaciones que se desarrollan en Linkedin son bastante diferentes a las que se tienen en TikTok o en Twitter, es por esto que se hace necesario conocer quién es la audiencia a la que está dirigido el contenido, a cuál red social está dirigido y de esta manera optimizar los resultados que se están buscando. Es por ello que, se debe diseñar un mensaje que se ajuste a las especificaciones de la plataforma y las expectativas del público que pasa tiempo en cada una de ellas.
           
-          .col-6.col-lg-4
+          .col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img22.png', alt='Imágen decorativa')
 
-        .row.p-4(titulo="Crear contenido para compartir")
+        .row.justify-content-center.p-4(titulo="Crear contenido para compartir")
           .col-lg-8
             p Es una de las mejores maneras de disparar el alcance del tráfico de las cuentas, la fórmula es simple:
 
@@ -87,13 +87,13 @@
                     i.fas.fa-check(style="color:#6936C1")
                     p.mb-0 Involucrar a la audiencia en la creación del contenido que se está construyendo.
 
-          .col-6.col-lg-4
+          .col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img23.png', alt='Imágen decorativa')
 
-        .row.p-4(titulo="Interactuar con la audiencia")
+        .row.justify-content-center.p-4(titulo="Interactuar con la audiencia")
           .col-lg-8
-            p Saber cómo realizar este proceso, entendiendo que las personas no solamente buscan conexión, sino que también buscan interacción con otras personas con las que se identifican ya sean a través de un personajes, marcas o productos. Las plataformas en las que funcionan las redes sociales han hecho que las interacciones sociales auténticas sean parte crucial de cualquier estrategia de <i>maketing</i>.
+            p Saber cómo realizar este proceso, entendiendo que las personas no solamente buscan conexión, sino que también buscan interacción con otras personas con las que se identifican, ya sean a través de personajes, marcas o productos. Las plataformas en las que funcionan las redes sociales han hecho que las interacciones sociales auténticas sean parte crucial de cualquier estrategia de <i>maketing</i>.
 
             p Es una excelente manera de medir si el contenido está cumpliendo su función de captar clientes, ya que esta información permite verificar sí:
 
@@ -111,7 +111,7 @@
                 i.fas.fa-check(style="color:#6936C1")
                 p.mb-0 Mide y monitorea la precisión del impacto en la participación en las redes sociales.
 
-          .col-6.col-lg-4
+          .col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img24.png', alt='Imágen decorativa')
 
@@ -365,7 +365,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
 
-            p.mt-5 Ahora bien, desde la configuración de la <i>fanpage</i>, se puede integrar con el perfil de Instagram, creando una plataforma omnicanal para mejor experiencia y comunicación del cliente; este aspecto es fundamental, debido a que el usuario tendrá disponible tres canales de comunicación a tan solo un clic (Messenger, WhatsAppy Direct).
+            p.mt-5 Ahora bien, desde la configuración de la <i>fanpage</i>, se puede integrar con el perfil de Instagram, creando una plataforma omnicanal para mejor experiencia y comunicación del cliente; este aspecto es fundamental, debido a que el usuario tendrá disponible tres canales de comunicación a tan solo un clic (Messenger, WhatsApp y Direct).
 
           .col-md-6
             figure
@@ -395,7 +395,7 @@
           .col-md-6.mb-4.mb-md-0
             h4.mt-5 <i>Email</i> <i>marketing</i> o <i>E-mailing</i>
 
-            p Es una acción o técnica de mercadeo directo que se apoya del envío de correos electrónicas de forma masiva para enviar un mensaje a una audiencia específica. Este envío de correos busca estimular las ventas o informar de novedades. Existen varias plataformas que prestan este servicio, entre las más populares están: <i>mailchimp</i> y <i>sendinblue</i>.
+            p Es una acción o técnica de mercadeo directo que se apoya del envío de correos electrónicos de forma masiva para enviar un mensaje a una audiencia específica. Este envío de correos busca estimular las ventas o informar de novedades. Existen varias plataformas que prestan este servicio, entre las más populares están: <i>mailchimp</i> y <i>sendinblue</i>.
 
           .col-md-6
             figure
@@ -475,7 +475,7 @@
           p La optimización de los medios sociales le ayuda a generar tráfico relevante para su sitio web sin ningún gasto. La optimización de los medios sociales ayuda a llegar a un público más amplio y que responde mucho mejor y los visitantes podrán llegar a usted también. Publicar y compartir contenidos en las redes sociales, foros y blogs ayuda a generar un gran tráfico. Le ayuda a conseguir más tráfico a su sitio web con una publicación atractiva en diferentes canales de medios sociales.
 
         .row.p-4(titulo="Fidelización de clientes")
-          p La optimización de los medios sociales le ayuda a generar tráfico relevante para su sitio web sin ningún gasto. La optimización de los medios sociales ayuda a llegar a un público más amplio y que responde mucho mejor y los visitantes podrán llegar a usted también. Publicar y compartir contenidos en las redes sociales, foros y blogs ayuda a generar un gran tráfico. Le ayuda a conseguir más tráfico a su sitio web con una publicación atractiva en diferentes canales de medios sociales.
+          p La optimización de las redes sociales puede mejorar la relación con los clientes estableciendo una comunicación abierta y reforzando así el vínculo con la marca. La optimización de las redes sociales tiene el poder de aumentar la fidelidad de los clientes. Si el cliente recibe una respuesta rápida en las redes sociales, se interesará más por su marca y la recomendará a otros.
 
         .row.p-4(titulo="Aumentar la visibilidad social")
           p Los medios sociales son una gran herramienta para establecer una relación con su público sin comprometer sus preferencias. Los contenidos compartidos, blogs, <i>posts</i>, etc. hacen que la gente conozca su marca y su sitio web. Los medios sociales permiten escribir información sobre el negocio con un enlace al sitio web, lo que ayuda a generar más clientes potenciales y a obtener una ventaja sobre los competidores. 
