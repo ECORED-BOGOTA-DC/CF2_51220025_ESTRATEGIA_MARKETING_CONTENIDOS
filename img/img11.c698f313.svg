@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_373968" data-name="Rectángulo 373968" width="85" height="85" transform="translate(840 6222)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_1059020" data-name="Enmascarar grupo 1059020" transform="translate(-840 -6222)" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(840 6222)">
+      <g id="Color">
+        <g id="_04.Twitter" data-name="04.Twitter">
+          <circle id="Background" cx="42.5" cy="42.5" r="42.5" fill="#03a9f4"/>
+          <path id="Icon" d="M70.03,25.427a23.487,23.487,0,0,1-6.5,1.784,11.218,11.218,0,0,0,4.966-6.241A22.547,22.547,0,0,1,61.334,23.7a11.285,11.285,0,0,0-19.528,7.717,11.671,11.671,0,0,0,.263,2.572A31.964,31.964,0,0,1,18.8,22.189a11.3,11.3,0,0,0,3.473,15.1,11.139,11.139,0,0,1-5.1-1.392v.123A11.341,11.341,0,0,0,26.216,47.1a11.257,11.257,0,0,1-2.958.369,10.066,10.066,0,0,1-2.142-.19,11.4,11.4,0,0,0,10.552,7.862,22.7,22.7,0,0,1-13.98,4.815,20.384,20.384,0,0,1-2.7-.157,31.758,31.758,0,0,0,17.336,5.066c20.775,0,32.132-17.207,32.132-32.121,0-.5,0-.979-.039-1.46a22.458,22.458,0,0,0,5.614-5.861Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
